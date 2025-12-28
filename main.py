@@ -3,6 +3,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from typing import List, Dict
 import uvicorn
 import json
+import requests  # ← properly import at top
 import unicodedata
 
 app = FastAPI()
@@ -22,16 +23,15 @@ dictionary_data: List[Dict] = []
 @app.on_event("startup")
 def load_dictionary():
     global dictionary_data
-    import requests
-
-@app.on_event("startup")
-def load_dictionary():
-    global dictionary_data
     url = "https://quileutelanguage.com/data/QuilDict_Unicode.json"
     response = requests.get(url)
     response.raise_for_status()
     dictionary_data = response.json()
 
+# Optional root endpoint to avoid 502 from Render
+@app.get("/")
+def root():
+    return {"status": "Quileute Translator API is live"}
 
 # Utility function to normalize and search entries
 def find_entries(english: str) -> List[Dict]:
