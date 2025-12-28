@@ -5,7 +5,15 @@ import uvicorn
 import json
 import requests  # ← properly import at top
 import unicodedata
+from fastapi import FastAPI, Query
+from fastapi.middleware.cors import CORSMiddleware
+from typing import List, Dict
+import uvicorn
+import json
+import requests
+import unicodedata
 import os
+
 
 app = FastAPI()
 
@@ -37,7 +45,10 @@ def root():
 # Utility function to normalize and search entries
 def find_entries(english: str) -> List[Dict]:
     english = english.lower().strip()
-    return [entry for entry in dictionary_data if entry["english"].lower().strip() == english]
+    return [
+        entry for entry in dictionary_data
+        if isinstance(entry.get("english"), str) and entry["english"].lower().strip() == english
+    ]
 
 # Core translation endpoint
 @app.get("/translate")
@@ -77,4 +88,3 @@ def translate(sentence: str = Query(..., description="English sentence to transl
 # Uncomment this if running locally for testing
 # if __name__ == "__main__":
 #     uvicorn.run("main:app", host="0.0.0.0", port=8000, reload=True)
-
