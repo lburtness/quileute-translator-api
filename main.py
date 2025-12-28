@@ -66,21 +66,31 @@ def root():
 
 @app.get("/translate")
 def translate(sentence: str = Query(..., min_length=1)):
-    words = sentence.strip().split()
+    words = sentence.strip().lower().split()
     all_matches = []
+    i = 0
+    n = len(words)
 
-    for word in words:
-        matches = find_entries(word)
-        if matches:
-            all_matches.extend(matches)
-        else:
-            # No match found
+    while i < n:
+        found = False
+        # Try longest possible phrase from i
+        for j in range(n, i, -1):
+            phrase = " ".join(words[i:j])
+            matches = find_entries(phrase)
+            if matches:
+                all_matches.extend(matches)
+                i = j  # advance past matched phrase
+                found = True
+                break
+
+        if not found:
             all_matches.append({
-                "english": word,
+                "english": words[i],
                 "quileute": "[hypothetical]",
                 "phonetic": "[unknown]",
                 "audio": None
             })
+            i += 1
 
     return {
         "quileute_unicode": " ".join(entry["quileute"] for entry in all_matches),
