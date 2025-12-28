@@ -23,8 +23,9 @@ dictionary_data: List[Dict] = []
 @app.on_event("startup")
 def load_dictionary():
     global dictionary_data
- with open("QuilDict_Unicode.json", encoding="utf-8") as f:
-    dictionary_data = json.load(f)
+    with open("QuilDict_Unicode.json", encoding="utf-8") as f:
+        dictionary_data = json.load(f)
+
 
 
 # Optional root endpoint to avoid 502 from Render
