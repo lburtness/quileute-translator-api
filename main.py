@@ -23,10 +23,9 @@ dictionary_data: List[Dict] = []
 @app.on_event("startup")
 def load_dictionary():
     global dictionary_data
-    url = "https://quileutelanguage.com/data/QuilDict_Unicode.json"
-    response = requests.get(url)
-    response.raise_for_status()
-    dictionary_data = response.json()
+    with open("QuilDict_Unicode.json", encoding="utf-8") as f:
+    dictionary_data = json.load(f)
+
 
 # Optional root endpoint to avoid 502 from Render
 @app.get("/")
