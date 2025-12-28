@@ -5,19 +5,21 @@ import json
 import os
 
 app = FastAPI()
+from fastapi.middleware.cors import CORSMiddleware
 
-# Enable CORS for frontend access (local + deployed)
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "http://localhost",
         "http://localhost:8000",
+        "http://127.0.0.1:8000",
         "https://quileutelanguage.com"
     ],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
 
 # Load the dictionary JSON once at startup
 try:
