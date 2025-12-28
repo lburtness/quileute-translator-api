@@ -5,6 +5,7 @@ import uvicorn
 import json
 import requests  # ← properly import at top
 import unicodedata
+import os
 
 app = FastAPI()
 
@@ -76,3 +77,4 @@ def translate(sentence: str = Query(..., description="English sentence to transl
 # Uncomment this if running locally for testing
 # if __name__ == "__main__":
 #     uvicorn.run("main:app", host="0.0.0.0", port=8000, reload=True)
+
