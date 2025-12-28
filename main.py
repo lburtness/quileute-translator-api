@@ -23,7 +23,7 @@ dictionary_data: List[Dict] = []
 @app.on_event("startup")
 def load_dictionary():
     global dictionary_data
-    with open("QuilDict_Unicode.json", encoding="utf-8") as f:
+ with open("QuilDict_Unicode.json", encoding="utf-8") as f:
     dictionary_data = json.load(f)
 
 
