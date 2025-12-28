@@ -1,18 +1,16 @@
 from fastapi import FastAPI, Query
 from fastapi.middleware.cors import CORSMiddleware
-from typing import List, Dict
+from typing import Optional
 import json
-import os
 
 app = FastAPI()
-from fastapi.middleware.cors import CORSMiddleware
 
+# CORS middleware
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "http://localhost",
         "http://localhost:8000",
-        "http://127.0.0.1:8000",
         "https://quileutelanguage.com"
     ],
     allow_credentials=True,
@@ -20,61 +18,64 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+# Load the dictionary at startup
+with open("QuilDict_Unicode.json", encoding="utf-8") as f:
+    dictionary = json.load(f)
 
-# Load the dictionary JSON once at startup
-try:
-    with open("QuilDict_Unicode.json", encoding="utf-8") as f:
-        dictionary: List[Dict] = json.load(f)
-except Exception as e:
-    print("Error loading dictionary:", e)
-    dictionary = []
-
-# Optional health check route
-@app.get("/")
-def root():
-    return {"status": "Quileute Translator API is live"}
-
-# Internal helper to find matching words and build audio URL
-def find_entries(english_word: str) -> List[Dict]:
+# Safe lookup of dictionary entries
+def find_entries(english_word: str):
     results = []
     word_lower = english_word.strip().lower()
 
     for entry in dictionary:
-        entry_english = entry.get("english", "").strip().lower()
-        if entry_english == word_lower:
-            # Audio path logic
-            audio_file = entry.get("audio_file", {}).get("mp3")
-            audio_url = None
+        # Skip invalid entries
+        if not isinstance(entry, dict):
+            continue
 
-            if audio_file:
-                try:
-                    audio_number = int(audio_file.split(".")[0])
-                    folder = audio_number // 1000
-                    audio_url = f"https://quileutelanguage.com/data/audio/{folder}/{audio_file}"
-                except ValueError:
-                    pass
+        english_value = entry.get("english")
+        if not isinstance(english_value, str):
+            continue
 
-            results.append({
-                "english": entry.get("english", ""),
-                "quileute": entry.get("quileute_unicode", entry.get("quileute", "")),
-                "phonetic": entry.get("pronunciation", ""),
-                "audio": audio_url
-            })
+        if english_value.strip().lower() != word_lower:
+            continue
+
+        # Handle audio
+        audio_file = entry.get("audio_file", {}).get("mp3")
+        audio_url = None
+
+        if isinstance(audio_file, str):
+            try:
+                number = int(audio_file.split(".")[0])
+                folder = number // 1000
+                audio_url = f"https://quileutelanguage.com/data/audio/{folder}/{audio_file}"
+            except ValueError:
+                pass  # Leave audio_url as None
+
+        results.append({
+            "english": english_value,
+            "quileute": entry.get("quileute_unicode", entry.get("quileute", "")),
+            "phonetic": entry.get("pronunciation", ""),
+            "audio": audio_url
+        })
 
     return results
 
-# Translation endpoint
+@app.get("/")
+def root():
+    return {"status": "Quileute Translator API is live"}
+
 @app.get("/translate")
 def translate(sentence: str = Query(..., min_length=1)):
     words = sentence.strip().split()
-    results = []
+    all_matches = []
 
     for word in words:
-        entries = find_entries(word)
-        if entries:
-            results.extend(entries)
+        matches = find_entries(word)
+        if matches:
+            all_matches.extend(matches)
         else:
-            results.append({
+            # No match found
+            all_matches.append({
                 "english": word,
                 "quileute": "[hypothetical]",
                 "phonetic": "[unknown]",
@@ -82,7 +83,7 @@ def translate(sentence: str = Query(..., min_length=1)):
             })
 
     return {
-        "quileute_unicode": " ".join(entry["quileute"] for entry in results),
-        "phonetic": " ".join(entry["phonetic"] for entry in results),
-        "morphology": results
+        "quileute_unicode": " ".join(entry["quileute"] for entry in all_matches),
+        "phonetic": " ".join(entry["phonetic"] for entry in all_matches),
+        "morphology": all_matches
     }
