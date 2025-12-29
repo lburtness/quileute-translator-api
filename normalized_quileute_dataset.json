@@ -1,5 +1,27 @@
 [
   {
+    "english": "I am going to Forks",
+    "quileute_unicode": "pókʷskíƚli",
+    "phonetic": "pok-skilt-lee",
+    "morphology": [
+      {
+        "english": "Forks",
+        "quileute": "pókʷs",
+        "phonetic": "pok-s"
+      },
+      {
+        "english": "to go",
+        "quileute": "kíƚ",
+        "phonetic": "skilt"
+      },
+      {
+        "english": "I",
+        "quileute": "li",
+        "phonetic": "lee"
+      }
+
+  },
+{
     "base_english": "a",
     "normalized_english": "a, an",
     "quileute_unicode": "xʷ, kʷ",
