@@ -1,0 +1,3442 @@
+[
+  {
+    "English":"accompany, be with ",
+    "Quileute":"-\/ol",
+    "Quileute_Unicode":"-ʔól",
+    "Pronunciation":"-ol",
+    "AudioFile":71,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"act, action, habit ",
+    "Quileute":"-k8da",
+    "Quileute_Unicode":"-kída",
+    "Pronunciation":"-kih-DAY",
+    "AudioFile":129,
+    "InferredCategory":"verb"
+  },
+  {
+    "English":"action, activity, movement",
+    "Quileute":"-kid8\/",
+    "Quileute_Unicode":"-kidíʔ",
+    "Pronunciation":"-kih-DAY",
+    "AudioFile":133,
+    "InferredCategory":"verb"
+  },
+  {
+    "English":"afterwards, later in time (suffix)",
+    "Quileute":"-m2ochxq",
+    "Quileute_Unicode":"-ḳʷóchxá",
+    "Pronunciation":"-kwoch-HA",
+    "AudioFile":201,
+    "InferredCategory":"temporal"
+  },
+  {
+    "English":"age (lexical suffix)",
+    "Quileute":"-rsiya",
+    "Quileute_Unicode":"-t́siya",
+    "Pronunciation":"-tsee-yuh",
+    "AudioFile":218,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"antler, horn (lexical suffix)",
+    "Quileute":"-7ix",
+    "Quileute_Unicode":"-ƚix",
+    "Pronunciation":"-thi-h",
+    "AudioFile":390,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"arm, hand (lexical suffix) ",
+    "Quileute":"-ray ",
+    "Quileute_Unicode":"-t́ay ",
+    "Pronunciation":"-tai ",
+    "AudioFile":445,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"arrive, get to a place (lexical suffix)",
+    "Quileute":"-malik",
+    "Quileute_Unicode":"-ḳalik",
+    "Pronunciation":"-kah-lik",
+    "AudioFile":456,
+    "InferredCategory":"noun"
+  },
+  {
+    "English":"arrow, spear projectile, bullet (lexical suffix)",
+    "Quileute":"-nit",
+    "Quileute_Unicode":"-ḱ́it",
+    "Pronunciation":"-kit",
+    "AudioFile":463,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"arrow feather, arrowhead (stone) (lexical suffix) ",
+    "Quileute":"-ya\/at",
+    "Quileute_Unicode":"-yaʔat",
+    "Pronunciation":"-yah-aht",
+    "AudioFile":466,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"arrowhead (lexical suffix)",
+    "Quileute":"-vhod",
+    "Quileute_Unicode":"-ćhód",
+    "Pronunciation":"-chod",
+    "AudioFile":470,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"assumed, presumed (lexical suffix)",
+    "Quileute":"-k2olas ",
+    "Quileute_Unicode":"-kʷólas ",
+    "Pronunciation":"-kwoh-lahs",
+    "AudioFile":525,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"back of anything (lexical suffix)",
+    "Quileute":"-j2ay",
+    "Quileute_Unicode":"-ḳ́ʷay",
+    "Pronunciation":"-kwai",
+    "AudioFile":600,
+    "InferredCategory":"noun"
+  },
+  {
+    "English":"banks of a river (lexical suffix)",
+    "Quileute":"-vh",
+    "Quileute_Unicode":"-ćh",
+    "Pronunciation":"-ch",
+    "AudioFile":676,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"bark, tree bark (lexical suffix)",
+    "Quileute":"-vhit",
+    "Quileute_Unicode":"-ćhit",
+    "Pronunciation":"-chit",
+    "AudioFile":691,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"basket (lexical suffix) ",
+    "Quileute":"-bay",
+    "Quileute_Unicode":"-bay",
+    "Pronunciation":"-bai",
+    "AudioFile":722,
+    "InferredCategory":"question"
+  },
+  {
+    "English":"basket, small basket (lexical suffix)",
+    "Quileute":"-vhisa",
+    "Quileute_Unicode":"-ćhisa",
+    "Pronunciation":"-chee-suh",
+    "AudioFile":734,
+    "InferredCategory":"question"
+  },
+  {
+    "English":"beach (lexical suffix)",
+    "Quileute":"-wa",
+    "Quileute_Unicode":"-ʷa",
+    "Pronunciation":"-wah",
+    "AudioFile":781,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"become, get (as in get sick) (lexical suffix)",
+    "Quileute":"-sh",
+    "Quileute_Unicode":"-sh",
+    "Pronunciation":"-sh",
+    "AudioFile":839,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"belong to, possess (lexical suffix)",
+    "Quileute":"-ha",
+    "Quileute_Unicode":"-ha",
+    "Pronunciation":"-ha",
+    "AudioFile":839,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"belong to, possess (lexical suffix)",
+    "Quileute":"-a",
+    "Quileute_Unicode":"-a",
+    "Pronunciation":"-a",
+    "AudioFile":839,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"belong to, own, have (lexical suffix)",
+    "Quileute":"-lo",
+    "Quileute_Unicode":"-ló",
+    "Pronunciation":"-lo ",
+    "AudioFile":886,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"blanket, (old word for clothes in general)",
+    "Quileute":"-rsa",
+    "Quileute_Unicode":"-t́sa",
+    "Pronunciation":"-tsah, -tsuh",
+    "AudioFile":1004,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"body (lexical suffix)",
+    "Quileute":"-nis",
+    "Quileute_Unicode":"-ḱ́is",
+    "Pronunciation":"-kis",
+    "AudioFile":1004,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"body (lexical suffix)",
+    "Quileute":"-nislat",
+    "Quileute_Unicode":"-ḱ́islat",
+    "Pronunciation":"-kis-laht",
+    "AudioFile":1004,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"bottom, inside (lexical suffix)",
+    "Quileute":"-vho\/ot",
+    "Quileute_Unicode":"-ćhóʔót",
+    "Pronunciation":"-cho-oht",
+    "AudioFile":1107,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"boundary (lexical suffix)",
+    "Quileute":"-ridam2",
+    "Quileute_Unicode":"-t́idaḳʷ",
+    "Pronunciation":"-ti-dahkw",
+    "AudioFile":1115,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"bow, weapon (lexical suffix)",
+    "Quileute":"-patska",
+    "Quileute_Unicode":"-patska",
+    "Pronunciation":"-paht-skah, puht-skuh",
+    "AudioFile":1122,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"box (lexical suffix)",
+    "Quileute":"-saya",
+    "Quileute_Unicode":"-saya",
+    "Pronunciation":"-sah-yah",
+    "AudioFile":1127,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"branch, arm, hand (lexical suffix) ",
+    "Quileute":"-ray",
+    "Quileute_Unicode":"-t́ay",
+    "Pronunciation":"tai ",
+    "AudioFile":1145,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"breast (lexical suffix)",
+    "Quileute":"-tits",
+    "Quileute_Unicode":"-tits",
+    "Pronunciation":"-tits",
+    "AudioFile":1180,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"bunch, group (lexical suffix)",
+    "Quileute":"-may ",
+    "Quileute_Unicode":"-ḳay ",
+    "Pronunciation":"-kai ",
+    "AudioFile":1258,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"buttocks man's (lexical suffix) ",
+    "Quileute":"-da",
+    "Quileute_Unicode":"-da",
+    "Pronunciation":"-dah",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"buttocks man's (lexical suffix) ",
+    "Quileute":"-dam2",
+    "Quileute_Unicode":"-daḳʷ",
+    "Pronunciation":"-dahkw",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"buy, get, acquire, trade for, fish, hunt or catch (lexical suffix)",
+    "Quileute":"-tash",
+    "Quileute_Unicode":"-tash",
+    "Pronunciation":"-tahsh",
+    "AudioFile":1303,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"by means of (lexical suffix)",
+    "Quileute":"-k2al",
+    "Quileute_Unicode":"-kʷal",
+    "Pronunciation":"-kwal",
+    "AudioFile":1314,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"by using (lexical suffix)",
+    "Quileute":"-nitf",
+    "Quileute_Unicode":"-ḱ́itx̣",
+    "Pronunciation":"-kit-h",
+    "AudioFile":1318,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"canoe (lexical suffix)",
+    "Quileute":"-tm",
+    "Quileute_Unicode":"-tḳ",
+    "Pronunciation":"-tk",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"canoe (lexical suffix)",
+    "Quileute":"-mal",
+    "Quileute_Unicode":"-ḳal",
+    "Pronunciation":"-kal",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"canoe (lexical suffix)",
+    "Quileute":"-m2",
+    "Quileute_Unicode":"-ḳʷ",
+    "Pronunciation":"-kw",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"catch, hunt, harvest (lexical suffix)",
+    "Quileute":"-al",
+    "Quileute_Unicode":"-al",
+    "Pronunciation":"-al, -ul",
+    "AudioFile":1480,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"catch someone doing wrong (lexical suffix)",
+    "Quileute":"-ba",
+    "Quileute_Unicode":"-ba",
+    "Pronunciation":"-bah",
+    "AudioFile":1482,
+    "InferredCategory":"verb"
+  },
+  {
+    "English":"cause, make, do (causative suffix)",
+    "Quileute":"-s",
+    "Quileute_Unicode":"-s",
+    "Pronunciation":"-s",
+    "AudioFile":1486,
+    "InferredCategory":"verb"
+  },
+  {
+    "English":"cause, make, do (causative suffix) ",
+    "Quileute":"-chis ",
+    "Quileute_Unicode":"-chis ",
+    "Pronunciation":"-chis ",
+    "AudioFile":1490,
+    "InferredCategory":"verb"
+  },
+  {
+    "English":"cause, make, do (causative suffix)",
+    "Quileute":"-ts",
+    "Quileute_Unicode":"-ts",
+    "Pronunciation":"-ts",
+    "AudioFile":null,
+    "InferredCategory":"verb"
+  },
+  {
+    "English":"cause, make, do (causative suffix)",
+    "Quileute":"-tsi",
+    "Quileute_Unicode":"-tsi",
+    "Pronunciation":"-tsih",
+    "AudioFile":null,
+    "InferredCategory":"verb"
+  },
+  {
+    "English":"chest (body part) (lexical suffix)",
+    "Quileute":"-tupil",
+    "Quileute_Unicode":"-tìpil",
+    "Pronunciation":"-tay-pil",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"chest (body part) (lexical suffix)",
+    "Quileute":"-tuplit",
+    "Quileute_Unicode":"-tìplit",
+    "Pronunciation":"tay-plit",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"child, baby (lexical suffix)",
+    "Quileute":"-7n2a ",
+    "Quileute_Unicode":"-ƚḱ́ʷa ",
+    "Pronunciation":"-th-kwah",
+    "AudioFile":1578,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"chin (lexical suffix) ",
+    "Quileute":"-jidi7",
+    "Quileute_Unicode":"-ḳ́idiƚ",
+    "Pronunciation":"-KAY-dith",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"chin (lexical suffix) ",
+    "Quileute":"-jidi7a",
+    "Quileute_Unicode":"-ḳ́idiƚa",
+    "Pronunciation":"-KAY-dith-ah",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"cloth, material (lexical suffix)",
+    "Quileute":"-ri",
+    "Quileute_Unicode":"-t́i",
+    "Pronunciation":"-tee",
+    "AudioFile":1671,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"color (lexical suffix)",
+    "Quileute":"-iso ",
+    "Quileute_Unicode":"-isó ",
+    "Pronunciation":"-ay-so",
+    "AudioFile":1725,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"colored, to be colored",
+    "Quileute":"-ar",
+    "Quileute_Unicode":"-at́",
+    "Pronunciation":"-aht",
+    "AudioFile":1729,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"command, to order, force someone to do something (lexical suffix) ",
+    "Quileute":"-sral",
+    "Quileute_Unicode":"-st́al",
+    "Pronunciation":"-stahl",
+    "AudioFile":1753,
+    "InferredCategory":"verb"
+  },
+  {
+    "English":"companions, clan brothers (lexical suffix) ",
+    "Quileute":"-msit ",
+    "Quileute_Unicode":"-ḳsit ",
+    "Pronunciation":"-ksit",
+    "AudioFile":1770,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"companion in a vehicle (lexical suffix)",
+    "Quileute":"-mal ",
+    "Quileute_Unicode":"-ḳal ",
+    "Pronunciation":"-kahl, kuhl",
+    "AudioFile":1772,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"companion (lexical suffix) ",
+    "Quileute":"-smob",
+    "Quileute_Unicode":"-sḳób",
+    "Pronunciation":"-skob",
+    "AudioFile":1774,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"conjecture, unconfirmed opinion (lexical suffix)",
+    "Quileute":"-k2ok2",
+    "Quileute_Unicode":"-kʷókʷ",
+    "Pronunciation":"-kwokw",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"conjecture, unconfirmed opinion (lexical suffix)",
+    "Quileute":"-tax2",
+    "Quileute_Unicode":"-taxʷ",
+    "Pronunciation":"-taxw",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"crave, want, desire (lexical suffix) ",
+    "Quileute":"-ra7",
+    "Quileute_Unicode":"-t́aƚ",
+    "Pronunciation":"-tath",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"crave, want, desire (lexical suffix) ",
+    "Quileute":"sayq-",
+    "Quileute_Unicode":"sayá-",
+    "Pronunciation":"sa-YAH",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"cut, I am going logging.",
+    "Quileute":"-ray",
+    "Quileute_Unicode":"-t́ay",
+    "Pronunciation":"-tai",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"cut, I am going logging.",
+    "Quileute":"habarayqsli",
+    "Quileute_Unicode":"habat́ayásli",
+    "Pronunciation":"ha-bah-tai-YAS-lee",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"day (lexical suffix)",
+    "Quileute":"-tash",
+    "Quileute_Unicode":"-tash",
+    "Pronunciation":"-tash",
+    "AudioFile":2091,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"day (suffix used only with numbers)",
+    "Quileute":"-t",
+    "Quileute_Unicode":"-t",
+    "Pronunciation":"-t",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"day (suffix used only with numbers)",
+    "Quileute":"-ta",
+    "Quileute_Unicode":"-ta",
+    "Pronunciation":"-tah",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"day (suffix used only with numbers)",
+    "Quileute":"-tash",
+    "Quileute_Unicode":"-tash",
+    "Pronunciation":"-tahsh",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"day (lexical suffix), a happy day",
+    "Quileute":"-mtiya",
+    "Quileute_Unicode":"-ḳtiya",
+    "Pronunciation":"-k-tee-yah",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"day (lexical suffix), a happy day",
+    "Quileute":"wisqmtiya",
+    "Quileute_Unicode":"ʷisáḳtiya",
+    "Pronunciation":"wi-SAHK-tee-yah",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"deceased, destroyed, no longer existing (lexical suffix)",
+    "Quileute":"-mpa\/at",
+    "Quileute_Unicode":"-ḳpaʔat",
+    "Pronunciation":"-k-pah-aht",
+    "AudioFile":2133,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"design, copy (lexical suffix)",
+    "Quileute":"-smats",
+    "Quileute_Unicode":"-sḳats",
+    "Pronunciation":"-skahts, skuhts",
+    "AudioFile":2217,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"develop (lexical suffix), He became strong. ",
+    "Quileute":"-shi7",
+    "Quileute_Unicode":"-shiƚ",
+    "Pronunciation":"-shayth",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"develop (lexical suffix), He became strong. ",
+    "Quileute":"7ibitish87as",
+    "Quileute_Unicode":"ƚibitishíƚas",
+    "Pronunciation":"thi-bay-tee-SHAY-thus",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"do (question word): do I, do you, do we, does he ",
+    "Quileute":"-licha",
+    "Quileute_Unicode":"-licha",
+    "Pronunciation":"-li-chah",
+    "AudioFile":null,
+    "InferredCategory":"question"
+  },
+  {
+    "English":"do (question word): do I, do you, do we, does he ",
+    "Quileute":"-lichid",
+    "Quileute_Unicode":"-lichid",
+    "Pronunciation":"-li-chid",
+    "AudioFile":null,
+    "InferredCategory":"question"
+  },
+  {
+    "English":"do (question word): do I, do you, do we, does he ",
+    "Quileute":"-lilo",
+    "Quileute_Unicode":"-liló",
+    "Pronunciation":"-li-loh",
+    "AudioFile":null,
+    "InferredCategory":"question"
+  },
+  {
+    "English":"do (question word): do I, do you, do we, does he ",
+    "Quileute":"-lilas",
+    "Quileute_Unicode":"-lilas",
+    "Pronunciation":"-li-las",
+    "AudioFile":null,
+    "InferredCategory":"question"
+  },
+  {
+    "English":"do, make (lexical suffix)",
+    "Quileute":"-ts",
+    "Quileute_Unicode":"-ts",
+    "Pronunciation":"-ts",
+    "AudioFile":null,
+    "InferredCategory":"verb"
+  },
+  {
+    "English":"do, make (lexical suffix)",
+    "Quileute":"-tsi",
+    "Quileute_Unicode":"-tsi",
+    "Pronunciation":"-tsi",
+    "AudioFile":null,
+    "InferredCategory":"verb"
+  },
+  {
+    "English":"do, make (lexical suffix)",
+    "Quileute":"-tsis",
+    "Quileute_Unicode":"-tsis",
+    "Pronunciation":"-tsis",
+    "AudioFile":null,
+    "InferredCategory":"verb"
+  },
+  {
+    "English":"dollar (lexical suffix)",
+    "Quileute":"-yixit",
+    "Quileute_Unicode":"-yixit",
+    "Pronunciation":"-yih-hit",
+    "AudioFile":2391,
+    "InferredCategory":"verb"
+  },
+  {
+    "English":"door (lexical suffix)",
+    "Quileute":"-tip",
+    "Quileute_Unicode":"-tip",
+    "Pronunciation":"-tayp ",
+    "AudioFile":2402,
+    "InferredCategory":"verb"
+  },
+  {
+    "English":"dream",
+    "Quileute":"-k2sil",
+    "Quileute_Unicode":"-kʷsil",
+    "Pronunciation":"-kwsil",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"dream",
+    "Quileute":"ix2qk2sil",
+    "Quileute_Unicode":"ixʷákʷsil",
+    "Pronunciation":"ih-HWAKW-sil",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"dress for women (lexical suffix)",
+    "Quileute":"-tams",
+    "Quileute_Unicode":"-taḳs",
+    "Pronunciation":"-tahks",
+    "AudioFile":2449,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"drink, eat (lexical suffix)",
+    "Quileute":"-fash",
+    "Quileute_Unicode":"-x̣ash",
+    "Pronunciation":"-hash",
+    "AudioFile":2464,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"due to, He died due to sickness.",
+    "Quileute":"-lichx",
+    "Quileute_Unicode":"-lichx",
+    "Pronunciation":"-lich-h",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"due to, He died due to sickness.",
+    "Quileute":"vhimqfax2 hitk2ol8chx",
+    "Quileute_Unicode":"ćhiḳáx̣axʷ hitkʷólíchx",
+    "Pronunciation":"chee-KAH-hah-hw hayt-kwo-LICH-h",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"each other (lexical suffix for “both acting together on each other”) ",
+    "Quileute":"-tid",
+    "Quileute_Unicode":"-tid",
+    "Pronunciation":"-tid",
+    "AudioFile":2526,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"each other (lexical suffix)",
+    "Quileute":"-sid",
+    "Quileute_Unicode":"-sid",
+    "Pronunciation":"-sid",
+    "AudioFile":2530,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"ear (lexical suffix)",
+    "Quileute":"-lax",
+    "Quileute_Unicode":"-lax",
+    "Pronunciation":"-lah",
+    "AudioFile":2544,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"eat, drink (lexical suffix)",
+    "Quileute":"-fash",
+    "Quileute_Unicode":"-x̣ash",
+    "Pronunciation":"-hash",
+    "AudioFile":2559,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"eat (lexical suffix)",
+    "Quileute":"-fa",
+    "Quileute_Unicode":"-x̣a",
+    "Pronunciation":"-ha",
+    "AudioFile":2561,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"eat, drink (lexical suffix) ",
+    "Quileute":"-la",
+    "Quileute_Unicode":"-la",
+    "Pronunciation":"-la",
+    "AudioFile":2564,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"eat, to eat a meal (lexical suffix)",
+    "Quileute":"-rsil",
+    "Quileute_Unicode":"-t́sil",
+    "Pronunciation":"-tsil",
+    "AudioFile":2569,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"egg (lexical suffix)",
+    "Quileute":"-vho\/",
+    "Quileute_Unicode":"-ćhóʔ",
+    "Pronunciation":"-choh",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"egg (lexical suffix)",
+    "Quileute":"-vhit",
+    "Quileute_Unicode":"-ćhit",
+    "Pronunciation":"-chit",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"egg, salmon (lexical suffix)",
+    "Quileute":"-nida",
+    "Quileute_Unicode":"-ḱ́ida",
+    "Pronunciation":"-ki-dah",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"egg, salmon (lexical suffix)",
+    "Quileute":"-nidax",
+    "Quileute_Unicode":"-ḱ́idax",
+    "Pronunciation":"-ki-dah-h",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"elbow (lexical suffix)",
+    "Quileute":"-dosm2ay",
+    "Quileute_Unicode":"-dósḳʷay",
+    "Pronunciation":"-dos-kwah-ee",
+    "AudioFile":2599,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"end (lexical suffix)",
+    "Quileute":"-tida",
+    "Quileute_Unicode":"-tida",
+    "Pronunciation":"-tih-dah",
+    "AudioFile":2647,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"end, finish, quit, stop, end (lexical suffix)",
+    "Quileute":"-rida",
+    "Quileute_Unicode":"-t́ida",
+    "Pronunciation":"-ti-dah",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"end, finish, quit, stop, end (lexical suffix)",
+    "Quileute":"-qrida",
+    "Quileute_Unicode":"-át́ida",
+    "Pronunciation":"-ah-ti-dah",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"end, finish, quit, stop, end (lexical suffix)",
+    "Quileute":"-9rida",
+    "Quileute_Unicode":"-ót́ida",
+    "Pronunciation":"-oh-ti-dah",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"equipment, tool, thing to use (lexical suffix)",
+    "Quileute":"-nit",
+    "Quileute_Unicode":"-ḱ́it",
+    "Pronunciation":"-kit",
+    "AudioFile":2686,
+    "InferredCategory":"noun"
+  },
+  {
+    "English":"equipment, fishing gear (lexical suffix)",
+    "Quileute":"-tam2o7",
+    "Quileute_Unicode":"-taḳʷóƚ",
+    "Pronunciation":"-tah-kwoth",
+    "AudioFile":2688,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"excrement, poop (lexical suffix)",
+    "Quileute":"-da ",
+    "Quileute_Unicode":"-da ",
+    "Pronunciation":"-dah",
+    "AudioFile":"xxxx",
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"expert, also one who does something (lexical suffix)",
+    "Quileute":"-m7ti",
+    "Quileute_Unicode":"-ḳƚti",
+    "Pronunciation":"-k-th-tee",
+    "AudioFile":2753,
+    "InferredCategory":"verb"
+  },
+  {
+    "English":"eye (lexical suffix)",
+    "Quileute":"-tilox2",
+    "Quileute_Unicode":"-tilóxʷ",
+    "Pronunciation":"-ti-lohw",
+    "AudioFile":2771,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"eyebrow (lexical suffix)",
+    "Quileute":"-ris",
+    "Quileute_Unicode":"-t́is",
+    "Pronunciation":"-tis",
+    "AudioFile":2777,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"feather, wing (lexical suffix)",
+    "Quileute":"-ski",
+    "Quileute_Unicode":"-ski",
+    "Pronunciation":"-skee",
+    "AudioFile":2904,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"female, (lexical suffix)",
+    "Quileute":"-rsop ",
+    "Quileute_Unicode":"-t́sóp ",
+    "Pronunciation":"-tsop ",
+    "AudioFile":2927,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"fire (lexical suffix)",
+    "Quileute":"-spa",
+    "Quileute_Unicode":"-spa",
+    "Pronunciation":"-spah",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"fire (lexical suffix)",
+    "Quileute":"-spi",
+    "Quileute_Unicode":"-spi",
+    "Pronunciation":"-spee",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"fire (lexical suffix)",
+    "Quileute":"-k2a",
+    "Quileute_Unicode":"-kʷa",
+    "Pronunciation":"-kwa",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"fire (lexical suffix)",
+    "Quileute":"-k2a\/",
+    "Quileute_Unicode":"-kʷaʔ",
+    "Pronunciation":"kwah",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"fire, fireplace (lexical suffix)",
+    "Quileute":"-chiso",
+    "Quileute_Unicode":"-chisó",
+    "Pronunciation":"-chay-so",
+    "AudioFile":2993,
+    "InferredCategory":"noun"
+  },
+  {
+    "English":"firewood (lexical suffix)",
+    "Quileute":"-=lat",
+    "Quileute_Unicode":"-=lat",
+    "Pronunciation":"-lah-t",
+    "AudioFile":2997,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"fish or hunt, get, buy (lexical suffix)",
+    "Quileute":"-tash",
+    "Quileute_Unicode":"-tash",
+    "Pronunciation":"-tahsh",
+    "AudioFile":3011,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"fish or hunt for food (lexical suffix)",
+    "Quileute":"-pats",
+    "Quileute_Unicode":"-pats",
+    "Pronunciation":"-pahts",
+    "AudioFile":3012,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"floor, earth, ground, dirt (lexical suffix)",
+    "Quileute":"-rso\/",
+    "Quileute_Unicode":"-t́sóʔ",
+    "Pronunciation":"-tsoh",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"floor, earth, ground, dirt (lexical suffix)",
+    "Quileute":"-rsa",
+    "Quileute_Unicode":"-t́sa",
+    "Pronunciation":"-tsah",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"flounder, halibut (lexical suffix)",
+    "Quileute":"-yit",
+    "Quileute_Unicode":"-yit",
+    "Pronunciation":"-yit",
+    "AudioFile":3077,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"foot, leg (lexical suffix)",
+    "Quileute":"-dask",
+    "Quileute_Unicode":"-dask",
+    "Pronunciation":"-dask, dusk",
+    "AudioFile":3120,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"friend (lexical suffix)",
+    "Quileute":"-mas",
+    "Quileute_Unicode":"-ḳas",
+    "Pronunciation":"-kahs",
+    "AudioFile":3184,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"from a place, native of… (lexical suffix)",
+    "Quileute":"-ri7x2",
+    "Quileute_Unicode":"-t́iƚxʷ",
+    "Pronunciation":"-tithw",
+    "AudioFile":3193,
+    "InferredCategory":"noun"
+  },
+  {
+    "English":"from, native to a place (lexical suffix)",
+    "Quileute":"-i7x2",
+    "Quileute_Unicode":"-iƚxʷ",
+    "Pronunciation":"-ithw",
+    "AudioFile":3203,
+    "InferredCategory":"noun"
+  },
+  {
+    "English":"fur (lexical suffix)",
+    "Quileute":"-j2a7",
+    "Quileute_Unicode":"-ḳ́ʷaƚ",
+    "Pronunciation":"-kwath",
+    "AudioFile":3238,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"gather, collect ",
+    "Quileute":"-\/al",
+    "Quileute_Unicode":"-ʔal",
+    "Pronunciation":"-ahl",
+    "AudioFile":3298,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"gather, collect, hunt for (lexical suffix)",
+    "Quileute":"-s ",
+    "Quileute_Unicode":"-s ",
+    "Pronunciation":"-s",
+    "AudioFile":3300,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"get, become (lexical suffix) ",
+    "Quileute":"-alish",
+    "Quileute_Unicode":"-alish",
+    "Pronunciation":"-ah-lish",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"get, become (lexical suffix) ",
+    "Quileute":"-ish",
+    "Quileute_Unicode":"-ish",
+    "Pronunciation":"-ish",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"get, become (lexical suffix) ",
+    "Quileute":"-sh",
+    "Quileute_Unicode":"-sh",
+    "Pronunciation":"-sh",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"get, buy (lexical suffix) ",
+    "Quileute":"-tash",
+    "Quileute_Unicode":"-tash",
+    "Pronunciation":"-tahsh",
+    "AudioFile":3333,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"gift, (regular suffix -ma\/)",
+    "Quileute":"-ma\/",
+    "Quileute_Unicode":"-ḳaʔ",
+    "Pronunciation":"-kah",
+    "AudioFile":3362,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"give (lexical suffix) ",
+    "Quileute":"-s",
+    "Quileute_Unicode":"-s",
+    "Pronunciation":"-s",
+    "AudioFile":3373,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"go (lexical suffix)",
+    "Quileute":"-ki ",
+    "Quileute_Unicode":"-ki ",
+    "Pronunciation":"-kee",
+    "AudioFile":3410,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"go, (lexical suffix)",
+    "Quileute":"-f",
+    "Quileute_Unicode":"-x̣",
+    "Pronunciation":"-h",
+    "AudioFile":3414,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"go, to go in a vehicle, canoe (lexical suffix) ",
+    "Quileute":"-lo",
+    "Quileute_Unicode":"-ló",
+    "Pronunciation":"-lo",
+    "AudioFile":3432,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"go through (woods or water) (lexical suffix)",
+    "Quileute":"-k2a7",
+    "Quileute_Unicode":"-kʷaƚ",
+    "Pronunciation":"-kwath",
+    "AudioFile":3438,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"got (see “have”) (lexical suffix)",
+    "Quileute":"-ha\/",
+    "Quileute_Unicode":"-haʔ",
+    "Pronunciation":"-ha",
+    "AudioFile":"xxxx",
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"got (see “have”) (lexical suffix)",
+    "Quileute":"-a\/",
+    "Quileute_Unicode":"-aʔ",
+    "Pronunciation":"-ah",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"grab, take hold of (lexical suffix)",
+    "Quileute":"-ma",
+    "Quileute_Unicode":"-ḳa",
+    "Pronunciation":"-kah",
+    "AudioFile":3474,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"grass (lexical suffix)",
+    "Quileute":"-7a7",
+    "Quileute_Unicode":"-ƚaƚ",
+    "Pronunciation":"-thath",
+    "AudioFile":3497,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"gravel (lexical suffix)",
+    "Quileute":"-tay ",
+    "Quileute_Unicode":"-tay ",
+    "Pronunciation":"-tai",
+    "AudioFile":3515,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"ground, floor (lexical suffix)",
+    "Quileute":"-rso\/",
+    "Quileute_Unicode":"-t́sóʔ",
+    "Pronunciation":"-tso",
+    "AudioFile":3552,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"gun, weapon (lexical suffix)",
+    "Quileute":"-pa",
+    "Quileute_Unicode":"-pa",
+    "Pronunciation":"-pa",
+    "AudioFile":3595,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"habit (lexical suffix)",
+    "Quileute":"-m",
+    "Quileute_Unicode":"-ḳ",
+    "Pronunciation":"-k",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"habit (lexical suffix)",
+    "Quileute":"-mitmal",
+    "Quileute_Unicode":"-ḳitḳal",
+    "Pronunciation":"-kit-kal",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"hair (lexical suffix)",
+    "Quileute":"-sida7",
+    "Quileute_Unicode":"-sidaƚ",
+    "Pronunciation":"-si-dahth",
+    "AudioFile":3613,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"hair (lexical suffix)",
+    "Quileute":"-ma\/ ",
+    "Quileute_Unicode":"-ḳaʔ ",
+    "Pronunciation":"-kah",
+    "AudioFile":3622,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"hand, arm (lexical suffix)",
+    "Quileute":"-ray ",
+    "Quileute_Unicode":"-t́ay ",
+    "Pronunciation":"-tai ",
+    "AudioFile":3641,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"handful, bunch (lexical suffix)",
+    "Quileute":"-may",
+    "Quileute_Unicode":"-ḳay",
+    "Pronunciation":"kai",
+    "AudioFile":3648,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"harvest (lexical suffix)",
+    "Quileute":"-al",
+    "Quileute_Unicode":"-al",
+    "Pronunciation":"-al",
+    "AudioFile":3722,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"hat (lexical suffix)",
+    "Quileute":"-disch",
+    "Quileute_Unicode":"-disch",
+    "Pronunciation":"-disch",
+    "AudioFile":3724,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"have, got, to have or own (lexical suffix)",
+    "Quileute":"-a",
+    "Quileute_Unicode":"-a",
+    "Pronunciation":"-ah",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"have, got, to have or own (lexical suffix)",
+    "Quileute":"-ha",
+    "Quileute_Unicode":"-ha",
+    "Pronunciation":"-hah",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"have, to have (along) with or be wearing (lexical suffix)",
+    "Quileute":"-sm2obi ",
+    "Quileute_Unicode":"-sḳʷóbi ",
+    "Pronunciation":"-skoh-bee ",
+    "AudioFile":3749,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"he (present) (lexical suffix)",
+    "Quileute":"-fas",
+    "Quileute_Unicode":"-x̣as",
+    "Pronunciation":"-hahs",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"he (present) (lexical suffix)",
+    "Quileute":"-as",
+    "Quileute_Unicode":"-as",
+    "Pronunciation":"-ahs",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"he (present) (lexical suffix)",
+    "Quileute":"-s",
+    "Quileute_Unicode":"-s",
+    "Pronunciation":"-s",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"she (present) (lexical suffix)",
+    "Quileute":"-faks",
+    "Quileute_Unicode":"-x̣aks",
+    "Pronunciation":"-haks",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"she (present) (lexical suffix)",
+    "Quileute":"-aks",
+    "Quileute_Unicode":"-aks",
+    "Pronunciation":"-ahks",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"she (present) (lexical suffix)",
+    "Quileute":"-ks",
+    "Quileute_Unicode":"-ks",
+    "Pronunciation":"-ks",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"he (no longer present) (lexical suffix)",
+    "Quileute":"-fach",
+    "Quileute_Unicode":"-x̣ach",
+    "Pronunciation":"-hach",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"he (no longer present) (lexical suffix)",
+    "Quileute":"-ach",
+    "Quileute_Unicode":"-ach",
+    "Pronunciation":"-ach",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"he (no longer present) (lexical suffix)",
+    "Quileute":"-ch",
+    "Quileute_Unicode":"-ch",
+    "Pronunciation":"-ch",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"she (no longer present) (lexical suffix)",
+    "Quileute":"-faksh",
+    "Quileute_Unicode":"-x̣aksh",
+    "Pronunciation":"-haksh",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"she (no longer present) (lexical suffix)",
+    "Quileute":"-aksh",
+    "Quileute_Unicode":"-aksh",
+    "Pronunciation":"-aksh",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"she (no longer present) (lexical suffix)",
+    "Quileute":"-ksh",
+    "Quileute_Unicode":"-ksh",
+    "Pronunciation":"-ksh",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"she (unknown) (lexical suffix)",
+    "Quileute":"-kw",
+    "Quileute_Unicode":"-kʷ",
+    "Pronunciation":"-kw",
+    "AudioFile":" ",
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"he, Is it he? (question or interrogative suffix)",
+    "Quileute":"-fa\/a",
+    "Quileute_Unicode":"-x̣aʔa",
+    "Pronunciation":"-hah-ah",
+    "AudioFile":null,
+    "InferredCategory":"question"
+  },
+  {
+    "English":"he, Is it he? (question or interrogative suffix)",
+    "Quileute":"-a",
+    "Quileute_Unicode":"-a",
+    "Pronunciation":"-ah",
+    "AudioFile":null,
+    "InferredCategory":"question"
+  },
+  {
+    "English":"he, Is it he? (question or interrogative suffix)",
+    "Quileute":"-ax2",
+    "Quileute_Unicode":"-axʷ",
+    "Pronunciation":"-ahw",
+    "AudioFile":null,
+    "InferredCategory":"question"
+  },
+  {
+    "English":"he (conditional suffix)",
+    "Quileute":"-s",
+    "Quileute_Unicode":"-s",
+    "Pronunciation":"-s",
+    "AudioFile":3783,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"he, him, her, them (conditional object pronouns)",
+    "Quileute":"-swa",
+    "Quileute_Unicode":"-sʷa",
+    "Pronunciation":"-swah",
+    "AudioFile":3784,
+    "InferredCategory":"pronoun"
+  },
+  {
+    "English":"he, him, her, them (object, when not actually affected)",
+    "Quileute":"-b",
+    "Quileute_Unicode":"-b",
+    "Pronunciation":"-b",
+    "AudioFile":3788,
+    "InferredCategory":"temporal"
+  },
+  {
+    "English":"he, himself (reflexive suffix)",
+    "Quileute":"-smal ",
+    "Quileute_Unicode":"-sḳal ",
+    "Pronunciation":"-slahl",
+    "AudioFile":3793,
+    "InferredCategory":"pronoun"
+  },
+  {
+    "English":"he, his (possessive present, not present, unknown) ",
+    "Quileute":"-ya\/as",
+    "Quileute_Unicode":"-yaʔas",
+    "Pronunciation":"-ya-as",
+    "AudioFile":null,
+    "InferredCategory":"possessive"
+  },
+  {
+    "English":"he, his (possessive present, not present, unknown) ",
+    "Quileute":"-ya\/ach",
+    "Quileute_Unicode":"-yaʔach",
+    "Pronunciation":"-ya-ach",
+    "AudioFile":null,
+    "InferredCategory":"possessive"
+  },
+  {
+    "English":"he, his (possessive present, not present, unknown) ",
+    "Quileute":"-ya\/ax2",
+    "Quileute_Unicode":"-yaʔaxʷ",
+    "Pronunciation":"-ya-axw",
+    "AudioFile":null,
+    "InferredCategory":"possessive"
+  },
+  {
+    "English":"he, his (belonging to or of him) (possessive suffix)",
+    "Quileute":"-lz\/yq\/as",
+    "Quileute_Unicode":"-làʔyáʔas",
+    "Pronunciation":"-lah-yah-ahs",
+    "AudioFile":3798,
+    "InferredCategory":"possessive"
+  },
+  {
+    "English":"heel of foot (lexical suffix)",
+    "Quileute":"-ni7i",
+    "Quileute_Unicode":"-ḱ́iƚi",
+    "Pronunciation":"-KEE-thee",
+    "AudioFile":3845,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"hide, skin  (lexical suffix)",
+    "Quileute":"-dis",
+    "Quileute_Unicode":"-dis",
+    "Pronunciation":"-dis",
+    "AudioFile":3871,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"hip (lexical suffix)",
+    "Quileute":"-sdif",
+    "Quileute_Unicode":"-sdix̣",
+    "Pronunciation":"-sdih",
+    "AudioFile":3892,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"house, building (lexical suffix) ",
+    "Quileute":"-ti",
+    "Quileute_Unicode":"-ti",
+    "Pronunciation":"-tee",
+    "AudioFile":3987,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"husband, wife (lexical-suffix) ",
+    "Quileute":"-r",
+    "Quileute_Unicode":"-t́",
+    "Pronunciation":"-T",
+    "AudioFile":4047,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"I (grammatical suffix) (subject)",
+    "Quileute":"-li",
+    "Quileute_Unicode":"-li",
+    "Pronunciation":"-lee",
+    "AudioFile":4053,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"I (grammatical suffix) ",
+    "Quileute":"-la ",
+    "Quileute_Unicode":"-la ",
+    "Pronunciation":"-la",
+    "AudioFile":4058,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"I, me (grammatical suffix)",
+    "Quileute":"-sta ",
+    "Quileute_Unicode":"-sta ",
+    "Pronunciation":"-stah",
+    "AudioFile":4063,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"I, me (grammatical suffix)",
+    "Quileute":"-mala ",
+    "Quileute_Unicode":"-ḳala ",
+    "Pronunciation":"-kah-luh",
+    "AudioFile":4066,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"I, me (grammatical suffix)",
+    "Quileute":"-tila ",
+    "Quileute_Unicode":"-tila ",
+    "Pronunciation":"-ti-lah",
+    "AudioFile":4069,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"I (grammatical suffix) (myself)",
+    "Quileute":"-smal",
+    "Quileute_Unicode":"-sḳal",
+    "Pronunciation":"-skal",
+    "AudioFile":4072,
+    "InferredCategory":"pronoun"
+  },
+  {
+    "English":"I, my (possessive suffix)",
+    "Quileute":"-s ",
+    "Quileute_Unicode":"-s ",
+    "Pronunciation":"-s",
+    "AudioFile":4080,
+    "InferredCategory":"possessive"
+  },
+  {
+    "English":"I, my (possessive suffix for relatives) ",
+    "Quileute":"-rot ",
+    "Quileute_Unicode":"-t́ót ",
+    "Pronunciation":"-tot",
+    "AudioFile":4083,
+    "InferredCategory":"relational"
+  },
+  {
+    "English":"if, wonder whether, seems like maybe, it might, could be (lexical suffix)",
+    "Quileute":"-j2ax2",
+    "Quileute_Unicode":"-ḳ́ʷaxʷ",
+    "Pronunciation":"-kwuhw",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"if, wonder whether, seems like maybe, it might, could be (lexical suffix)",
+    "Quileute":"-j2ax2j2o",
+    "Quileute_Unicode":"-ḳ́ʷaxʷḳ́ʷó",
+    "Pronunciation":"kwuhw-kwo",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"if, wonder whether, seems like maybe, it might, could be (lexical suffix)",
+    "Quileute":"or -ramqtax2",
+    "Quileute_Unicode":"ót́ -t́aḳátaxʷ",
+    "Pronunciation":"-tuh-KAH-tuhw",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"imagine, think, suppose (lexical suffix)",
+    "Quileute":"-vhayo",
+    "Quileute_Unicode":"-ćhayó",
+    "Pronunciation":"-chah-yo",
+    "AudioFile":4127,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"imagine to be true (lexical suffix) ",
+    "Quileute":"-k2olas ",
+    "Quileute_Unicode":"-kʷólas ",
+    "Pronunciation":"-kwo-lahs",
+    "AudioFile":4129,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"in, (lexical suffix) ",
+    "Quileute":"-vho ",
+    "Quileute_Unicode":"-ćhó ",
+    "Pronunciation":" -cho ",
+    "AudioFile":" ",
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"inform, tell, notify (lexical suffix)",
+    "Quileute":"-mawo7",
+    "Quileute_Unicode":"-ḳaʷóƚ",
+    "Pronunciation":"-kah-woth ",
+    "AudioFile":4177,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"inside (lexical suffix)",
+    "Quileute":"-vho\/ ",
+    "Quileute_Unicode":"-ćhóʔ ",
+    "Pronunciation":"-cho",
+    "AudioFile":4196,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"intend, desire to (suffix) ",
+    "Quileute":"-tmay ",
+    "Quileute_Unicode":"-tḳay ",
+    "Pronunciation":"-t-kay",
+    "AudioFile":4218,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"intend, intend to (intentive suffix)",
+    "Quileute":"-ki7mat ",
+    "Quileute_Unicode":"-kiƚḳat ",
+    "Pronunciation":"-kith-kaht",
+    "AudioFile":4222,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"intestines (lexical suffix) ",
+    "Quileute":"-ya\/ ",
+    "Quileute_Unicode":"-yaʔ ",
+    "Pronunciation":"-yah ",
+    "AudioFile":4236,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"jam, log jam (lexical suffix)",
+    "Quileute":"-sa ",
+    "Quileute_Unicode":"-sa ",
+    "Pronunciation":"-sah ",
+    "AudioFile":4269,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"jointly, together (lexical suffix)",
+    "Quileute":"-\/ol",
+    "Quileute_Unicode":"-ʔól",
+    "Pronunciation":"-ohl",
+    "AudioFile":4311,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"kelp (lexical suffix) ",
+    "Quileute":"-nis",
+    "Quileute_Unicode":"-ḱ́is",
+    "Pronunciation":"-kis ",
+    "AudioFile":4371,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"knife, (lexical suffix)",
+    "Quileute":"-RO7",
+    "Quileute_Unicode":"-T́Óƚ",
+    "Pronunciation":"-toth",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"knife, (lexical suffix)",
+    "Quileute":"RI7",
+    "Quileute_Unicode":"T́Iƚ",
+    "Pronunciation":"-tith",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"land (lexical suffix) ",
+    "Quileute":"-rso\/ ",
+    "Quileute_Unicode":"-t́sóʔ ",
+    "Pronunciation":"-tso",
+    "AudioFile":4483,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"language, speak, (lexical suffix)",
+    "Quileute":"-sj2a",
+    "Quileute_Unicode":"-sḳ́ʷa",
+    "Pronunciation":"-skwah",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"language, speak, (lexical suffix)",
+    "Quileute":"-j2a",
+    "Quileute_Unicode":"-ḳ́ʷa",
+    "Pronunciation":"-kwah",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"leaf (lexical suffix)",
+    "Quileute":"-vhiyi7 ",
+    "Quileute_Unicode":"-ćhiyiƚ ",
+    "Pronunciation":"-chee-yith",
+    "AudioFile":4542,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"leg, calf or thigh (lexical suffix)",
+    "Quileute":"-vhi7",
+    "Quileute_Unicode":"-ćhiƚ",
+    "Pronunciation":"-chayth",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"leg, calf or thigh (lexical suffix)",
+    "Quileute":"-vhi7it",
+    "Quileute_Unicode":"-ćhiƚit",
+    "Pronunciation":"-chay-thit",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"leg, foot (see foot) (lexical suffix)",
+    "Quileute":"-tsom2s ",
+    "Quileute_Unicode":"-tsóḳʷs ",
+    "Pronunciation":"-tsohkws",
+    "AudioFile":4584,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"leg (lexical suffix)",
+    "Quileute":"-dask ",
+    "Quileute_Unicode":"-dask ",
+    "Pronunciation":"-dusk",
+    "AudioFile":4585,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"leg, front leg or human hand (lexical suffix)",
+    "Quileute":"-ray ",
+    "Quileute_Unicode":"-t́ay ",
+    "Pronunciation":"-tay (tai)",
+    "AudioFile":4588,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"line, straight mark, string or limit (lexical suffix)",
+    "Quileute":"-j2a",
+    "Quileute_Unicode":"-ḳ́ʷa",
+    "Pronunciation":"-kwa",
+    "AudioFile":4669,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"little, (diminutive suffix)",
+    "Quileute":"-rs",
+    "Quileute_Unicode":"-t́s",
+    "Pronunciation":"-ts",
+    "AudioFile":null,
+    "InferredCategory":"diminuative"
+  },
+  {
+    "English":"little, (diminutive suffix)",
+    "Quileute":"-rsa",
+    "Quileute_Unicode":"-t́sa",
+    "Pronunciation":"-tsa",
+    "AudioFile":null,
+    "InferredCategory":"diminuative"
+  },
+  {
+    "English":"little (infix), a little bigger, a little smaller ",
+    "Quileute":"-yi- + chik2 == chiy8k2",
+    "Quileute_Unicode":"-yi- + chikʷ == chiyíkʷ",
+    "Pronunciation":"chee-YEEKW",
+    "AudioFile":null,
+    "InferredCategory":"diminuative"
+  },
+  {
+    "English":"little (infix), a little bigger, a little smaller ",
+    "Quileute":null,
+    "Quileute_Unicode":null,
+    "Pronunciation":"kwa-YAH-dee",
+    "AudioFile":null,
+    "InferredCategory":"diminuative"
+  },
+  {
+    "English":null,
+    "Quileute":"-yi- + j2ad8 == j2ayqdu ",
+    "Quileute_Unicode":"-yi- + ḳ́ʷadí == ḳ́ʷayádì ",
+    "Pronunciation":null,
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"little, a little, kinda, sorta angry",
+    "Quileute":"-yi- + filq == fiy8la ",
+    "Quileute_Unicode":"-yi- + x̣ilá == x̣iyíla ",
+    "Pronunciation":"hi-YAY-la",
+    "AudioFile":4701,
+    "InferredCategory":"diminuative"
+  },
+  {
+    "English":"little, a little more",
+    "Quileute":"-yi- + ish =– iy8sh",
+    "Quileute_Unicode":"-yi- + ish =– iyísh",
+    "Pronunciation":"ee-YAYSH",
+    "AudioFile":4702,
+    "InferredCategory":"diminuative"
+  },
+  {
+    "English":"live, resident, one who lives in a place (lexical suffix)",
+    "Quileute":"-r ",
+    "Quileute_Unicode":"-t́ ",
+    "Pronunciation":null,
+    "AudioFile":4708,
+    "InferredCategory":"noun"
+  },
+  {
+    "English":"look for, go after, go out to gather, collect, hunt, fish, or seek for (lexical suffix)",
+    "Quileute":"-al",
+    "Quileute_Unicode":"-al",
+    "Pronunciation":"-al",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"look for, go after, go out to gather, collect, hunt, fish, or seek for (lexical suffix)",
+    "Quileute":"-alish",
+    "Quileute_Unicode":"-alish",
+    "Pronunciation":"-alish",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"made, made by (lexical suffix)",
+    "Quileute":"-towas",
+    "Quileute_Unicode":"-tóʷas",
+    "Pronunciation":"toh-was",
+    "AudioFile":4819,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"made, make (lexical suffix)",
+    "Quileute":"-ts",
+    "Quileute_Unicode":"-ts",
+    "Pronunciation":"-ts",
+    "AudioFile":null,
+    "InferredCategory":"verb"
+  },
+  {
+    "English":"made, make (lexical suffix)",
+    "Quileute":"-s",
+    "Quileute_Unicode":"-s",
+    "Pronunciation":"-s",
+    "AudioFile":null,
+    "InferredCategory":"verb"
+  },
+  {
+    "English":"made, make (lexical suffix)",
+    "Quileute":"tsis",
+    "Quileute_Unicode":"tsis",
+    "Pronunciation":"tsis",
+    "AudioFile":null,
+    "InferredCategory":"verb"
+  },
+  {
+    "English":"made from, made out of (lexical suffix)",
+    "Quileute":"-ti",
+    "Quileute_Unicode":"-ti",
+    "Pronunciation":"-tee",
+    "AudioFile":" ",
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"make (lexical suffix) ",
+    "Quileute":"-s",
+    "Quileute_Unicode":"-s",
+    "Pronunciation":"-s",
+    "AudioFile":null,
+    "InferredCategory":"verb"
+  },
+  {
+    "English":"make (lexical suffix) ",
+    "Quileute":"-ts",
+    "Quileute_Unicode":"-ts",
+    "Pronunciation":"-ts",
+    "AudioFile":null,
+    "InferredCategory":"verb"
+  },
+  {
+    "English":"  make, canoe making (lexical suffix) 5520",
+    "Quileute":"-tsis",
+    "Quileute_Unicode":"-tsis",
+    "Pronunciation":"-tsis",
+    "AudioFile":null,
+    "InferredCategory":"verb"
+  },
+  {
+    "English":"  make, canoe making (lexical suffix) 5520",
+    "Quileute":"-tsi",
+    "Quileute_Unicode":"-tsi",
+    "Pronunciation":"-tsi",
+    "AudioFile":null,
+    "InferredCategory":"verb"
+  },
+  {
+    "English":"  make (lexical suffix) 5522",
+    "Quileute":"-towas ",
+    "Quileute_Unicode":"-tóʷas ",
+    "Pronunciation":"-to-was",
+    "AudioFile":4842,
+    "InferredCategory":"verb"
+  },
+  {
+    "English":"  make of, material something is made from  (lexical suffix) ",
+    "Quileute":"-ri",
+    "Quileute_Unicode":"-t́i",
+    "Pronunciation":"-tee",
+    "AudioFile":4844,
+    "InferredCategory":"verb"
+  },
+  {
+    "English":"  make of, material something is made from  (lexical suffix) ",
+    "Quileute":"-ri",
+    "Quileute_Unicode":"-t́i",
+    "Pronunciation":"-tee",
+    "AudioFile":4850,
+    "InferredCategory":"verb"
+  },
+  {
+    "English":"maybe, possibly (potential or uncertain) (lexical suffix)",
+    "Quileute":"-ki7mata",
+    "Quileute_Unicode":"-kiƚḳata",
+    "Pronunciation":"-kith-ka-ta",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"maybe, possibly (potential or uncertain) (lexical suffix)",
+    "Quileute":"-ramata",
+    "Quileute_Unicode":"-t́aḳata",
+    "Pronunciation":"ta-ka-ta",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"meadow, prairie (lexical suffix)",
+    "Quileute":"-yam2",
+    "Quileute_Unicode":"-yaḳʷ",
+    "Pronunciation":"-yakw",
+    "AudioFile":4980,
+    "InferredCategory":"verb"
+  },
+  {
+    "English":"meal (lexical suffix)",
+    "Quileute":"-rsil",
+    "Quileute_Unicode":"-t́sil",
+    "Pronunciation":"-tsil",
+    "AudioFile":4981,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"meat (lexical suffix)",
+    "Quileute":"-say",
+    "Quileute_Unicode":"-say",
+    "Pronunciation":"-sai",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"meat (lexical suffix)",
+    "Quileute":"-sayat",
+    "Quileute_Unicode":"-sayat",
+    "Pronunciation":"-sai-yat",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"might, potential or possible result (lexical suffixes)",
+    "Quileute":"-tamata or hip",
+    "Quileute_Unicode":"-taḳata ót́ hip",
+    "Pronunciation":"-ta-ka-ta or hip, hayp",
+    "AudioFile":5047,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"most, the most (superlative) (comparative suffix)",
+    "Quileute":"-m2a",
+    "Quileute_Unicode":"-ḳʷa",
+    "Pronunciation":"-kwa",
+    "AudioFile":5189,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"must (rumored or probable =)(lexical suffixes)",
+    "Quileute":"-tax2",
+    "Quileute_Unicode":"-taxʷ",
+    "Pronunciation":"-tahw",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"must (rumored or probable =)(lexical suffixes)",
+    "Quileute":"-talich",
+    "Quileute_Unicode":"-talich",
+    "Pronunciation":"ta-lich",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"must (rumored or probable =)(lexical suffixes)",
+    "Quileute":"-tali",
+    "Quileute_Unicode":"-tali",
+    "Pronunciation":"ta-lee",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"my, of mine (lexical suffix)",
+    "Quileute":"-s",
+    "Quileute_Unicode":"-s",
+    "Pronunciation":"-s",
+    "AudioFile":5250,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"myself (lexical suffix)",
+    "Quileute":"-smalli",
+    "Quileute_Unicode":"-sḳalli",
+    "Pronunciation":"-skal-lee",
+    "AudioFile":null,
+    "InferredCategory":"pronoun"
+  },
+  {
+    "English":"navel (lexical suffix)",
+    "Quileute":"-om2s",
+    "Quileute_Unicode":"-óḳʷs",
+    "Pronunciation":"-okws",
+    "AudioFile":5284,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"need (lexical suffix)",
+    "Quileute":"-tok2ol ",
+    "Quileute_Unicode":"-tókʷól ",
+    "Pronunciation":"-to-kwol",
+    "AudioFile":5304,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"need, be short of, out of something (lexical suffix)",
+    "Quileute":"-tichf ",
+    "Quileute_Unicode":"-tichx̣ ",
+    "Pronunciation":"-tich-h",
+    "AudioFile":5308,
+    "InferredCategory":"noun"
+  },
+  {
+    "English":"net, gill net (lexical suffix)",
+    "Quileute":"-chi ",
+    "Quileute_Unicode":"-chi ",
+    "Pronunciation":"-chee",
+    "AudioFile":5337,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"nose (lexical suffix)",
+    "Quileute":"-os",
+    "Quileute_Unicode":"-ós",
+    "Pronunciation":"-os",
+    "AudioFile":5439,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"odor, smell, taste (lexical suffix)",
+    "Quileute":"-rada ",
+    "Quileute_Unicode":"-t́ada ",
+    "Pronunciation":"-ta-da",
+    "AudioFile":5503,
+    "InferredCategory":"verb"
+  },
+  {
+    "English":"of, out of (lexical suffix), made from iron ",
+    "Quileute":"-ri",
+    "Quileute_Unicode":"-t́i",
+    "Pronunciation":"-tee",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"of, out of (lexical suffix), made from iron ",
+    "Quileute":"kqxi7ri",
+    "Quileute_Unicode":"káxiƚt́i",
+    "Pronunciation":"KA-hith-tee",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"of, from a particular place (lexical suffix)",
+    "Quileute":"-i7f2 ",
+    "Quileute_Unicode":"-iƚx̣ʷ ",
+    "Pronunciation":"-ithw",
+    "AudioFile":5505,
+    "InferredCategory":"noun"
+  },
+  {
+    "English":"of, belonging to (lexical suffix)",
+    "Quileute":"-lo ",
+    "Quileute_Unicode":"-ló ",
+    "Pronunciation":"-lo",
+    "AudioFile":5508,
+    "InferredCategory":"possessive"
+  },
+  {
+    "English":"opening of a bag or container (lexical suffix)",
+    "Quileute":"-chap",
+    "Quileute_Unicode":"-chap",
+    "Pronunciation":"-chahp",
+    "AudioFile":5600,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"opinion (lexical suffix), it’s my opinion that…",
+    "Quileute":"-k2ox2",
+    "Quileute_Unicode":"-kʷóxʷ",
+    "Pronunciation":"-kwohw",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"opinion (lexical suffix), it’s my opinion that…",
+    "Quileute":"-k2ok",
+    "Quileute_Unicode":"-kʷók",
+    "Pronunciation":"-kwok",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"opinion (lexical suffix), it’s my opinion that…",
+    "Quileute":"lob8\/k2ox2 –",
+    "Quileute_Unicode":"lóbíʔkʷóxʷ –",
+    "Pronunciation":"lo-BAY-kwohw",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"order, command (lexical suffix)",
+    "Quileute":"-sral ",
+    "Quileute_Unicode":"-st́al ",
+    "Pronunciation":"-stal",
+    "AudioFile":5622,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"ought to, should do or be (lexical suffixes)",
+    "Quileute":"-7mal",
+    "Quileute_Unicode":"-ƚḳal",
+    "Pronunciation":"-thkal",
+    "AudioFile":null,
+    "InferredCategory":"verb"
+  },
+  {
+    "English":"ought to, should do or be (lexical suffixes)",
+    "Quileute":"-7mq\/alm",
+    "Quileute_Unicode":"-ƚḳáʔalḳ",
+    "Pronunciation":"-thka-alk",
+    "AudioFile":null,
+    "InferredCategory":"verb"
+  },
+  {
+    "English":"ought to, should do or be (lexical suffixes)",
+    "Quileute":"-7mats",
+    "Quileute_Unicode":"-ƚḳats",
+    "Pronunciation":"-thkats",
+    "AudioFile":null,
+    "InferredCategory":"verb"
+  },
+  {
+    "English":"ought to, should do or be (lexical suffixes)",
+    "Quileute":"-7mq\/ats",
+    "Quileute_Unicode":"-ƚḳáʔats",
+    "Pronunciation":"thka-uts",
+    "AudioFile":null,
+    "InferredCategory":"verb"
+  },
+  {
+    "English":"out of, made out of, made from (lexical suffix), made of iron",
+    "Quileute":"-ri",
+    "Quileute_Unicode":"-t́i",
+    "Pronunciation":"-ti",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"out of, made out of, made from (lexical suffix), made of iron",
+    "Quileute":"nqxi7ri",
+    "Quileute_Unicode":"ḱ́áxiƚt́i",
+    "Pronunciation":"KAH-hith-tee",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"paddle (lexical suffix)",
+    "Quileute":"-kiy",
+    "Quileute_Unicode":"-kiy",
+    "Pronunciation":"-key",
+    "AudioFile":5691,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"penis (lexical suffix)",
+    "Quileute":"-sk2o",
+    "Quileute_Unicode":"-skʷó",
+    "Pronunciation":"-skwo",
+    "AudioFile":5768,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"place (lexical suffix) (see also put)",
+    "Quileute":"-tal",
+    "Quileute_Unicode":"-tal",
+    "Pronunciation":"-tal",
+    "AudioFile":5850,
+    "InferredCategory":"noun"
+  },
+  {
+    "English":"plant, tree (lexical suffix)",
+    "Quileute":"-pat",
+    "Quileute_Unicode":"-pat",
+    "Pronunciation":"-pat, -put",
+    "AudioFile":5867,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"point of something (lexical suffix)",
+    "Quileute":"-o7wa",
+    "Quileute_Unicode":"-óƚʷa",
+    "Pronunciation":"-oth-wa",
+    "AudioFile":5895,
+    "InferredCategory":"noun"
+  },
+  {
+    "English":"pool, creek (lexical suffix) ",
+    "Quileute":"-shiksa",
+    "Quileute_Unicode":"-shiksa",
+    "Pronunciation":"-shik-sa",
+    "AudioFile":5917,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"possess, to have (lexical suffix), You have a dog, don’t you (isn’t that true)?",
+    "Quileute":"-ha",
+    "Quileute_Unicode":"-ha",
+    "Pronunciation":"-ha",
+    "AudioFile":null,
+    "InferredCategory":"verb"
+  },
+  {
+    "English":"possess, to have (lexical suffix), You have a dog, don’t you (isn’t that true)?",
+    "Quileute":"kadudohqlich tsixq?",
+    "Quileute_Unicode":"kadìdóhálich tsixá?",
+    "Pronunciation":"ka-day-do-HAH-lich tsi-HAH",
+    "AudioFile":null,
+    "InferredCategory":"verb"
+  },
+  {
+    "English":"prairie (lexical suffix)",
+    "Quileute":"-tor7ot ",
+    "Quileute_Unicode":"-tót́ƚót ",
+    "Pronunciation":"-tot-thot",
+    "AudioFile":5974,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"present, gift (lexical suffix)",
+    "Quileute":"-ma\/ ",
+    "Quileute_Unicode":"-ḳaʔ ",
+    "Pronunciation":"-kah",
+    "AudioFile":5989,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"really, awfully (lexical suffix)",
+    "Quileute":"-j2a",
+    "Quileute_Unicode":"-ḳ́ʷa",
+    "Pronunciation":"-kwa",
+    "AudioFile":6239,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"really, a whole lot, especially, greatly, (Note: the suffix -k2a is different from -j2a) ",
+    "Quileute":"-m2a ",
+    "Quileute_Unicode":"-ḳʷa ",
+    "Pronunciation":"-kwa",
+    "AudioFile":6241,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"remainder, part left or gone to waste (lexical suffix)",
+    "Quileute":"-takiti7",
+    "Quileute_Unicode":"-takitiƚ",
+    "Pronunciation":"-ta-ki-tith",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"remainder, part left or gone to waste (lexical suffix)",
+    "Quileute":"-stakiti7",
+    "Quileute_Unicode":"-stakitiƚ",
+    "Pronunciation":"ta-kay-tith",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"relative, (possessive suffix indicating a relative of someone) ",
+    "Quileute":"-rot ",
+    "Quileute_Unicode":"-t́ót ",
+    "Pronunciation":"-tot",
+    "AudioFile":6298,
+    "InferredCategory":"relational"
+  },
+  {
+    "English":"relative, (possessive suffix indicating a relative of someone) ",
+    "Quileute":"-rot ",
+    "Quileute_Unicode":"-t́ót ",
+    "Pronunciation":"-tot",
+    "AudioFile":6299,
+    "InferredCategory":"relational"
+  },
+  {
+    "English":"rib (lexical suffix)",
+    "Quileute":"-rsitm2o ",
+    "Quileute_Unicode":"-t́sitḳʷó ",
+    "Pronunciation":"-tsit-kwo",
+    "AudioFile":6355,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"  river (lexical suffix)",
+    "Quileute":"-narsit",
+    "Quileute_Unicode":"-ḱ́at́sit",
+    "Pronunciation":"-kat-sit",
+    "AudioFile":6397,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"road, path (lexical suffix)",
+    "Quileute":"-7ib",
+    "Quileute_Unicode":"-ƚib",
+    "Pronunciation":"-thib",
+    "AudioFile":6403,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"rock (lexical suffix)",
+    "Quileute":"-yaf",
+    "Quileute_Unicode":"-yax̣",
+    "Pronunciation":"-yah",
+    "AudioFile":6413,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"roof (lexical suffix)",
+    "Quileute":"-so\/",
+    "Quileute_Unicode":"-sóʔ",
+    "Pronunciation":"-so",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"roof (lexical suffix)",
+    "Quileute":"-s",
+    "Quileute_Unicode":"-s",
+    "Pronunciation":"-s",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"rope (lexical suffix)",
+    "Quileute":"-k2a\/",
+    "Quileute_Unicode":"-kʷaʔ",
+    "Pronunciation":"-kwa",
+    "AudioFile":6442,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"rumor (lexical suffix) I heard he was sick.",
+    "Quileute":"-k2ox2",
+    "Quileute_Unicode":"-kʷóxʷ",
+    "Pronunciation":"-kwohw",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"rumor (lexical suffix) I heard he was sick.",
+    "Quileute":"h8tk2olk2ox2",
+    "Quileute_Unicode":"hítkʷólkʷóxʷ",
+    "Pronunciation":"HAYT-kwol-kwohw",
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"say, Bill said he's sick",
+    "Quileute":"-vhayo; hitk2olivhay9\/fasBil",
+    "Quileute_Unicode":"-ćhayóṕ hitkʷólićhayóʔx̣asBil",
+    "Pronunciation":null,
+    "AudioFile":6559,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"sea, salt water, surface of the ocean (suffix); member of a whaling crew; blue water",
+    "Quileute":"-sida;h0x2sidat;r7opqsida",
+    "Quileute_Unicode":"-sidaṕhòxʷsidatṕt́ƚópásida",
+    "Pronunciation":null,
+    "AudioFile":6667,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"seem (it seems like it’ll be bad weather",
+    "Quileute":"-chalax",
+    "Quileute_Unicode":"-chalax",
+    "Pronunciation":null,
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"seem (it seems like it’ll be bad weather",
+    "Quileute":"basa7do\/07chqlaf",
+    "Quileute_Unicode":"basaƚdóʔòƚchálax̣",
+    "Pronunciation":null,
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"she, her (object - also him, them) when not actually affected",
+    "Quileute":"-b",
+    "Quileute_Unicode":"-b",
+    "Pronunciation":null,
+    "AudioFile":6826,
+    "InferredCategory":"temporal"
+  },
+  {
+    "English":"she, herself (reflexive) ",
+    "Quileute":"-smal",
+    "Quileute_Unicode":"-sḳal",
+    "Pronunciation":"skul",
+    "AudioFile":6830,
+    "InferredCategory":"pronoun"
+  },
+  {
+    "English":"she, her (possessive)",
+    "Quileute":"-ya\/aks",
+    "Quileute_Unicode":"-yaʔaks",
+    "Pronunciation":null,
+    "AudioFile":null,
+    "InferredCategory":"possessive"
+  },
+  {
+    "English":"she, her (possessive)",
+    "Quileute":"-ya\/aksh",
+    "Quileute_Unicode":"-yaʔaksh",
+    "Pronunciation":null,
+    "AudioFile":null,
+    "InferredCategory":"possessive"
+  },
+  {
+    "English":"she, her (possessive)",
+    "Quileute":"-ya\/ak2",
+    "Quileute_Unicode":"-yaʔakʷ",
+    "Pronunciation":null,
+    "AudioFile":null,
+    "InferredCategory":"possessive"
+  },
+  {
+    "English":"she, her (possessive)",
+    "Quileute":"-lz\/ayq\/aks",
+    "Quileute_Unicode":"-làʔayáʔaks",
+    "Pronunciation":null,
+    "AudioFile":6835,
+    "InferredCategory":"possessive"
+  },
+  {
+    "English":"should do or be (ought to) ",
+    "Quileute":"-7ma ===",
+    "Quileute_Unicode":"-ƚḳa ===",
+    "Pronunciation":null,
+    "AudioFile":6891,
+    "InferredCategory":"verb"
+  },
+  {
+    "English":"shoulder (lexical suffix)",
+    "Quileute":"-vhat -\\chifay",
+    "Quileute_Unicode":"-ćhat -\\chix̣ay",
+    "Pronunciation":null,
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"shoulder (lexical suffix)",
+    "Quileute":"-chifal",
+    "Quileute_Unicode":"-chix̣al",
+    "Pronunciation":null,
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"sick, ill ,sickness (lexical suffix)",
+    "Quileute":"-tk2ol",
+    "Quileute_Unicode":"-tkʷól",
+    "Pronunciation":null,
+    "AudioFile":6924,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"sickness (lexical suffix)",
+    "Quileute":"-rowa",
+    "Quileute_Unicode":"-t́óʷa",
+    "Pronunciation":null,
+    "AudioFile":6930,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"side, on the side (lexical suffix)",
+    "Quileute":"-cha\/",
+    "Quileute_Unicode":"-chaʔ",
+    "Pronunciation":null,
+    "AudioFile":6935,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"similar, like in appearance (lexical suffix)",
+    "Quileute":"-chamal",
+    "Quileute_Unicode":"-chaḳal",
+    "Pronunciation":null,
+    "AudioFile":6954,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"sing, song (lexical suffix)",
+    "Quileute":"-layo",
+    "Quileute_Unicode":"-layó",
+    "Pronunciation":null,
+    "AudioFile":6973,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"skin (lexical suffix)",
+    "Quileute":"-dis",
+    "Quileute_Unicode":"-dis",
+    "Pronunciation":null,
+    "AudioFile":7005,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"sky, heaven (lexical suffix)",
+    "Quileute":"-wo",
+    "Quileute_Unicode":"-ʷó",
+    "Pronunciation":null,
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"sky, heaven (lexical suffix)",
+    "Quileute":"-wo\/ot",
+    "Quileute_Unicode":"-ʷóʔót",
+    "Pronunciation":null,
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"smell, odor, taste (lexical suffix)",
+    "Quileute":"-rada ",
+    "Quileute_Unicode":"-t́ada ",
+    "Pronunciation":null,
+    "AudioFile":7068,
+    "InferredCategory":"verb"
+  },
+  {
+    "English":"son (lexical suffix)",
+    "Quileute":"-7n2a",
+    "Quileute_Unicode":"-ƚḱ́ʷa",
+    "Pronunciation":null,
+    "AudioFile":7161,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"sound of something (see also noise)",
+    "Quileute":"-layo",
+    "Quileute_Unicode":"-layó",
+    "Pronunciation":null,
+    "AudioFile":7196,
+    "InferredCategory":"noun"
+  },
+  {
+    "English":"spear (lexical suffix)",
+    "Quileute":"-rsa",
+    "Quileute_Unicode":"-t́sa",
+    "Pronunciation":null,
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"spear (lexical suffix)",
+    "Quileute":"-rsi",
+    "Quileute_Unicode":"-t́si",
+    "Pronunciation":null,
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"star (lexical suffix)",
+    "Quileute":"-rida",
+    "Quileute_Unicode":"-t́ida",
+    "Pronunciation":null,
+    "AudioFile":7339,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"stomach (lexical suffix)",
+    "Quileute":"-chmid",
+    "Quileute_Unicode":"-chḳid",
+    "Pronunciation":null,
+    "AudioFile":7427,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"stone, rock, reef (lexical suffix)",
+    "Quileute":"-yafi",
+    "Quileute_Unicode":"-yax̣i",
+    "Pronunciation":"ya hay",
+    "AudioFile":7437,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"stump (of tree; lexical suffix)",
+    "Quileute":"-rsip",
+    "Quileute_Unicode":"-t́sip",
+    "Pronunciation":null,
+    "AudioFile":7500,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"suitable for use",
+    "Quileute":"-7ma",
+    "Quileute_Unicode":"-ƚḳa",
+    "Pronunciation":null,
+    "AudioFile":7525,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"sun, day (lexical suffix)",
+    "Quileute":"-mtiya",
+    "Quileute_Unicode":"-ḳtiya",
+    "Pronunciation":null,
+    "AudioFile":7531,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"suppose, presumed (referring to a male)",
+    "Quileute":"-k2olas",
+    "Quileute_Unicode":"-kʷólas",
+    "Pronunciation":null,
+    "AudioFile":7541,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"supposed, presumed (referring to a female)",
+    "Quileute":"-k2ok2",
+    "Quileute_Unicode":"-kʷókʷ",
+    "Pronunciation":null,
+    "AudioFile":7542,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"talk, speak (lexical suffix)",
+    "Quileute":"-sn2a",
+    "Quileute_Unicode":"-sḱ́ʷa",
+    "Pronunciation":null,
+    "AudioFile":7632,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"talk, discussion, conversation (lexical suffix)",
+    "Quileute":"-mawo7",
+    "Quileute_Unicode":"-ḳaʷóƚ",
+    "Pronunciation":null,
+    "AudioFile":7637,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"team, group (lexical suffix)",
+    "Quileute":"-tmiyat",
+    "Quileute_Unicode":"-tḳiyat",
+    "Pronunciation":null,
+    "AudioFile":7672,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"tell, command (lexical suffix)",
+    "Quileute":"-sral",
+    "Quileute_Unicode":"-st́al",
+    "Pronunciation":null,
+    "AudioFile":7686,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"ten (old form)",
+    "Quileute":"-chi7",
+    "Quileute_Unicode":"-chiƚ",
+    "Pronunciation":null,
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"ten (old form)",
+    "Quileute":"ks chi7",
+    "Quileute_Unicode":"ks chiƚ",
+    "Pronunciation":null,
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"territory, land (lexical suffix)",
+    "Quileute":"-kisi",
+    "Quileute_Unicode":"-kisi",
+    "Pronunciation":null,
+    "AudioFile":7707,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"they (subject masculine)",
+    "Quileute":"-a\/as",
+    "Quileute_Unicode":"-aʔas",
+    "Pronunciation":null,
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"they (subject masculine)",
+    "Quileute":"-a\/aksh",
+    "Quileute_Unicode":"-aʔaksh",
+    "Pronunciation":null,
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"they (subject masculine)",
+    "Quileute":"-a\/ax2",
+    "Quileute_Unicode":"-aʔaxʷ",
+    "Pronunciation":null,
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"they (subject feminine)",
+    "Quileute":"-a\/aks",
+    "Quileute_Unicode":"-aʔaks",
+    "Pronunciation":null,
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"they (subject feminine)",
+    "Quileute":"-a\/aksh",
+    "Quileute_Unicode":"-aʔaksh",
+    "Pronunciation":null,
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"they (subject feminine)",
+    "Quileute":"-kw",
+    "Quileute_Unicode":"-kʷ",
+    "Pronunciation":null,
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"they (many people here and there)",
+    "Quileute":"-salas",
+    "Quileute_Unicode":"-salas",
+    "Pronunciation":null,
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"they (many people here and there)",
+    "Quileute":"-salaksh",
+    "Quileute_Unicode":"-salaksh",
+    "Pronunciation":null,
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"they (many people here and there)",
+    "Quileute":"-sal",
+    "Quileute_Unicode":"-sal",
+    "Pronunciation":null,
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"they, them (object)",
+    "Quileute":"-swa",
+    "Quileute_Unicode":"-sʷa",
+    "Pronunciation":null,
+    "AudioFile":7765,
+    "InferredCategory":"noun"
+  },
+  {
+    "English":"they, themselves (reflexive)",
+    "Quileute":"-smal",
+    "Quileute_Unicode":"-sḳal",
+    "Pronunciation":null,
+    "AudioFile":7769,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"they, their (masculine)",
+    "Quileute":"-salaya\/as",
+    "Quileute_Unicode":"-salayaʔas",
+    "Pronunciation":null,
+    "AudioFile":7771,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"they, their (feminine)",
+    "Quileute":"-salaya\/aks",
+    "Quileute_Unicode":"-salayaʔaks",
+    "Pronunciation":null,
+    "AudioFile":7772,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"thigh (lexical suffix)",
+    "Quileute":"-ros",
+    "Quileute_Unicode":"-t́ós",
+    "Pronunciation":null,
+    "AudioFile":7785,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"thing, lex suff",
+    "Quileute":"-wa",
+    "Quileute_Unicode":"-ʷa",
+    "Pronunciation":null,
+    "AudioFile":null,
+    "InferredCategory":"noun"
+  },
+  {
+    "English":"thing, lex suff",
+    "Quileute":"-k297wa",
+    "Quileute_Unicode":"-kʷóƚʷa",
+    "Pronunciation":null,
+    "AudioFile":null,
+    "InferredCategory":"noun"
+  },
+  {
+    "English":"thwart of canoe (lexical suffix)",
+    "Quileute":"-yax",
+    "Quileute_Unicode":"-yax",
+    "Pronunciation":null,
+    "AudioFile":7857,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"time (lexical suffix: lst, 2nd time)",
+    "Quileute":"-sf",
+    "Quileute_Unicode":"-sx̣",
+    "Pronunciation":null,
+    "AudioFile":7887,
+    "InferredCategory":"temporal"
+  },
+  {
+    "English":"to (infinitive (I want to go)",
+    "Quileute":"-i",
+    "Quileute_Unicode":"-i",
+    "Pronunciation":null,
+    "AudioFile":7910,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"to, toward (see also \"go\") ",
+    "Quileute":"-ki?",
+    "Quileute_Unicode":"-ki?",
+    "Pronunciation":null,
+    "AudioFile":7915,
+    "InferredCategory":"directional"
+  },
+  {
+    "English":"together (lexical suffix)",
+    "Quileute":"-\/ol",
+    "Quileute_Unicode":"-ʔól",
+    "Pronunciation":null,
+    "AudioFile":7928,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"too much, excessively (lexical suffix)",
+    "Quileute":"-m2a",
+    "Quileute_Unicode":"-ḳʷa",
+    "Pronunciation":"kwah",
+    "AudioFile":7937,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"tool, instrument (lexical suffix)",
+    "Quileute":"-m2o7",
+    "Quileute_Unicode":"-ḳʷóƚ",
+    "Pronunciation":" ",
+    "AudioFile":7950,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"tool, instrument (lexical suffix)",
+    "Quileute":"-ti7",
+    "Quileute_Unicode":"-tiƚ",
+    "Pronunciation":null,
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"tool, instrument (lexical suffix)",
+    "Quileute":"0",
+    "Quileute_Unicode":"ò",
+    "Pronunciation":null,
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"trap (lexical suffix)",
+    "Quileute":"-niy",
+    "Quileute_Unicode":"-ḱ́iy",
+    "Pronunciation":null,
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"trap (lexical suffix)",
+    "Quileute":"-niya",
+    "Quileute_Unicode":"-ḱ́iya",
+    "Pronunciation":null,
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"tree, wood (lexical suffix)",
+    "Quileute":"-ya",
+    "Quileute_Unicode":"-ya",
+    "Pronunciation":" ",
+    "AudioFile":8023,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"tree (lexical suffix)",
+    "Quileute":"-pat",
+    "Quileute_Unicode":"-pat",
+    "Pronunciation":" ",
+    "AudioFile":8025,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"trout, smelt, sucker(fish) (lexical suffix)",
+    "Quileute":"-rs",
+    "Quileute_Unicode":"-t́s",
+    "Pronunciation":null,
+    "AudioFile":8056,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"tumpline, pack-strap (lexical suffix)",
+    "Quileute":"-rsidaxay",
+    "Quileute_Unicode":"-t́sidaxay",
+    "Pronunciation":null,
+    "AudioFile":8080,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"twig, branch (lexical suffix)",
+    "Quileute":"-ray",
+    "Quileute_Unicode":"-t́ay",
+    "Pronunciation":" ",
+    "AudioFile":8103,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"use (lexical suffix)",
+    "Quileute":"-nitf",
+    "Quileute_Unicode":"-ḱ́itx̣",
+    "Pronunciation":null,
+    "AudioFile":8231,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"use, do by using (lex suff)",
+    "Quileute":"-ris",
+    "Quileute_Unicode":"-t́is",
+    "Pronunciation":null,
+    "AudioFile":8235,
+    "InferredCategory":"verb"
+  },
+  {
+    "English":"very first time",
+    "Quileute":"-m2a;malok2asxam2q",
+    "Quileute_Unicode":"-ḳʷaṕḳalókʷasxaḳʷá",
+    "Pronunciation":null,
+    "AudioFile":8279,
+    "InferredCategory":"temporal"
+  },
+  {
+    "English":"village (lexical suffix)",
+    "Quileute":"-tiyol",
+    "Quileute_Unicode":"-tiyól",
+    "Pronunciation":null,
+    "AudioFile":8282,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"village (lexical suffix)",
+    "Quileute":"-vhiyol",
+    "Quileute_Unicode":"-ćhiyól",
+    "Pronunciation":null,
+    "AudioFile":8283,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"vulva (lexical suffix)",
+    "Quileute":"-ri\/la7 ",
+    "Quileute_Unicode":"-t́iʔlaƚ ",
+    "Pronunciation":null,
+    "AudioFile":8307,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"wall (lexical suffix)",
+    "Quileute":"-wiy",
+    "Quileute_Unicode":"-ʷiy",
+    "Pronunciation":" ",
+    "AudioFile":8335,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"water (lexical suffix),",
+    "Quileute":"-sida ",
+    "Quileute_Unicode":"-sida ",
+    "Pronunciation":null,
+    "AudioFile":8390,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"water (lexical suffix),",
+    "Quileute":"-rs",
+    "Quileute_Unicode":"-t́s",
+    "Pronunciation":null,
+    "AudioFile":8395,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"water (lexical suffix)",
+    "Quileute":-7,
+    "Quileute_Unicode":"-ƚ",
+    "Pronunciation":null,
+    "AudioFile":8397,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"we (subject suffix),",
+    "Quileute":"-lo",
+    "Quileute_Unicode":"-ló",
+    "Pronunciation":"lo",
+    "AudioFile":8418,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"we, us (objectsxaffix),",
+    "Quileute":"-malo",
+    "Quileute_Unicode":"-ḳaló",
+    "Pronunciation":null,
+    "AudioFile":8430,
+    "InferredCategory":"noun"
+  },
+  {
+    "English":"we, us (objectsuffix),",
+    "Quileute":"-sto",
+    "Quileute_Unicode":"-stó",
+    "Pronunciation":null,
+    "AudioFile":8431,
+    "InferredCategory":"noun"
+  },
+  {
+    "English":"we, ourselves (reflexive)",
+    "Quileute":"-tilo",
+    "Quileute_Unicode":"-tiló",
+    "Pronunciation":null,
+    "AudioFile":8435,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"we, let us, let’s",
+    "Quileute":"-sdo",
+    "Quileute_Unicode":"-sdó",
+    "Pronunciation":null,
+    "AudioFile":8441,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"we, each other (suffix)",
+    "Quileute":"-fat",
+    "Quileute_Unicode":"-x̣at",
+    "Pronunciation":null,
+    "AudioFile":8443,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"weapon (lexical suffix)",
+    "Quileute":"-pa",
+    "Quileute_Unicode":"-pa",
+    "Pronunciation":null,
+    "AudioFile":8463,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"wear, have on or with (lexical suffix)",
+    "Quileute":"-sm2obi",
+    "Quileute_Unicode":"-sḳʷóbi",
+    "Pronunciation":null,
+    "AudioFile":8467,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"weather (lexical suffix)",
+    "Quileute":"-a7",
+    "Quileute_Unicode":"-aƚ",
+    "Pronunciation":null,
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"weather (lexical suffix)",
+    "Quileute":"-ats",
+    "Quileute_Unicode":"-ats",
+    "Pronunciation":null,
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"whale (lexical suffix)",
+    "Quileute":"-k2al",
+    "Quileute_Unicode":"-kʷal",
+    "Pronunciation":null,
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"whale (lexical suffix)",
+    "Quileute":"-tk2al",
+    "Quileute_Unicode":"-tkʷal",
+    "Pronunciation":null,
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"whale, drift whale or one dead on beach",
+    "Quileute":"-tit7",
+    "Quileute_Unicode":"-titƚ",
+    "Pronunciation":null,
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"whale, drift whale or one dead on beach",
+    "Quileute":"-to",
+    "Quileute_Unicode":"-tó",
+    "Pronunciation":null,
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"wife (lexical suffix)",
+    "Quileute":"-k2o7",
+    "Quileute_Unicode":"-kʷóƚ",
+    "Pronunciation":" ",
+    "AudioFile":8608,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"wife,mate, consort (lexical suffix)",
+    "Quileute":"-r",
+    "Quileute_Unicode":"-t́",
+    "Pronunciation":null,
+    "AudioFile":8613,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"wing (lexical suffix),",
+    "Quileute":"-ski",
+    "Quileute_Unicode":"-ski",
+    "Pronunciation":null,
+    "AudioFile":8646,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"woman, female, lex suffix",
+    "Quileute":"-rsop ",
+    "Quileute_Unicode":"-t́sóp ",
+    "Pronunciation":null,
+    "AudioFile":8677,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"wonder if, wondering about a future event ",
+    "Quileute":"-rqta-li",
+    "Quileute_Unicode":"-t́áta-li",
+    "Pronunciation":null,
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"wonder if, wondering about a future event ",
+    "Quileute":"-rqtalich",
+    "Quileute_Unicode":"-t́átalich",
+    "Pronunciation":null,
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"wonder if, wondering about a future event ",
+    "Quileute":"–ratalij2o",
+    "Quileute_Unicode":"–t́ataliḳ́ʷó",
+    "Pronunciation":null,
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"wood, wooden, log (lexical suff ix) ,",
+    "Quileute":"-ya",
+    "Quileute_Unicode":"-ya",
+    "Pronunciation":null,
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"wood, wooden, log (lexical suff ix) ,",
+    "Quileute":"-yat",
+    "Quileute_Unicode":"-yat",
+    "Pronunciation":null,
+    "AudioFile":null,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"wood (lexical suffix),",
+    "Quileute":"-ili ",
+    "Quileute_Unicode":"-ili ",
+    "Pronunciation":"ay lay",
+    "AudioFile":8695,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"wood for burning (lexical suffix),",
+    "Quileute":"-lat",
+    "Quileute_Unicode":"-lat",
+    "Pronunciation":" ",
+    "AudioFile":8696,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"year (lexical suffix),",
+    "Quileute":"-xiksa",
+    "Quileute_Unicode":"-xiksa",
+    "Pronunciation":null,
+    "AudioFile":8759,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"year (lexical suffix) ",
+    "Quileute":"-rsiya",
+    "Quileute_Unicode":"-t́siya",
+    "Pronunciation":null,
+    "AudioFile":8765,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"you (subject, singular)",
+    "Quileute":"-lich",
+    "Quileute_Unicode":"-lich",
+    "Pronunciation":null,
+    "AudioFile":8777,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"you (singular object) ",
+    "Quileute":"-malawo",
+    "Quileute_Unicode":"-ḳalaʷó",
+    "Pronunciation":null,
+    "AudioFile":null,
+    "InferredCategory":"noun"
+  },
+  {
+    "English":"you (singular object) ",
+    "Quileute":"-malaw",
+    "Quileute_Unicode":"-ḳalaʷ",
+    "Pronunciation":null,
+    "AudioFile":null,
+    "InferredCategory":"noun"
+  },
+  {
+    "English":"you (singular object) ",
+    "Quileute":"-tilawo",
+    "Quileute_Unicode":"-tilaʷó",
+    "Pronunciation":null,
+    "AudioFile":null,
+    "InferredCategory":"noun"
+  },
+  {
+    "English":"you (singular object) ",
+    "Quileute":"-tilaw",
+    "Quileute_Unicode":"-tilaʷ",
+    "Pronunciation":null,
+    "AudioFile":null,
+    "InferredCategory":"noun"
+  },
+  {
+    "English":"you (singular object) ",
+    "Quileute":"-swo",
+    "Quileute_Unicode":"-sʷó",
+    "Pronunciation":null,
+    "AudioFile":8799,
+    "InferredCategory":"noun"
+  },
+  {
+    "English":"you (singular, feminine, interrogative), ",
+    "Quileute":"-chid",
+    "Quileute_Unicode":"-chid",
+    "Pronunciation":null,
+    "AudioFile":8812,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"you (plural, feminine, interrogative),",
+    "Quileute":"-kid ",
+    "Quileute_Unicode":"-kid ",
+    "Pronunciation":null,
+    "AudioFile":8819,
+    "InferredCategory":"plural"
+  },
+  {
+    "English":"you (formal vocative, masculine)",
+    "Quileute":"-tqli",
+    "Quileute_Unicode":"-táli",
+    "Pronunciation":null,
+    "AudioFile":8822,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"you (semifornal vocative, masculine) ",
+    "Quileute":"-chali",
+    "Quileute_Unicode":"-chali",
+    "Pronunciation":null,
+    "AudioFile":8823,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"you (informal vocative, masculine)",
+    "Quileute":"-chali",
+    "Quileute_Unicode":"-chali",
+    "Pronunciation":null,
+    "AudioFile":8824,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"you (formal vocative, feminine)t ",
+    "Quileute":"-dali",
+    "Quileute_Unicode":"-dali",
+    "Pronunciation":null,
+    "AudioFile":8826,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"you (semi-formal vocative, feminine)",
+    "Quileute":"-hid",
+    "Quileute_Unicode":"-hid",
+    "Pronunciation":null,
+    "AudioFile":8827,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"yourself, yourselves (reflexive),",
+    "Quileute":"-smal",
+    "Quileute_Unicode":"-sḳal",
+    "Pronunciation":null,
+    "AudioFile":8843,
+    "InferredCategory":"pronoun"
+  },
+  {
+    "English":"you, each other, (lexical suffix)",
+    "Quileute":"-fat",
+    "Quileute_Unicode":"-x̣at",
+    "Pronunciation":null,
+    "AudioFile":8847,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"your (singular),",
+    "Quileute":"-ch",
+    "Quileute_Unicode":"-ch",
+    "Pronunciation":null,
+    "AudioFile":8849,
+    "InferredCategory":"unspecified"
+  },
+  {
+    "English":"your (plural),",
+    "Quileute":"-tik",
+    "Quileute_Unicode":"-tik",
+    "Pronunciation":null,
+    "AudioFile":8851,
+    "InferredCategory":"plural"
+  }
+]
