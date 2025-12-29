@@ -25,40 +25,37 @@ with open("QuilDict_Unicode.json", encoding="utf-8") as f:
 # Safe lookup of dictionary entries
 def find_entries(english_word: str):
     results = []
+
     word_lower = english_word.strip().lower()
 
     for entry in dictionary:
-        # Skip invalid entries
-        if not isinstance(entry, dict):
+        english_field = entry.get("english", "")
+        if not isinstance(english_field, str):
             continue
 
-        english_value = entry.get("english")
-        if not isinstance(english_value, str):
-            continue
+        glosses = [g.strip().lower() for g in english_field.split(",")]
 
-        if english_value.strip().lower() != word_lower:
-            continue
+        if word_lower in glosses:
+            audio_file = entry.get("audio_file", {}).get("mp3")
+            if audio_file:
+                try:
+                    audio_number = int(audio_file.split(".")[0])
+                    folder = audio_number // 1000
+                    audio_url = f"https://quileutelanguage.com/data/audio/{folder}/{audio_file}"
+                except ValueError:
+                    audio_url = None
+            else:
+                audio_url = None
 
-        # Handle audio
-        audio_file = entry.get("audio_file", {}).get("mp3")
-        audio_url = None
-
-        if isinstance(audio_file, str):
-            try:
-                number = int(audio_file.split(".")[0])
-                folder = number // 1000
-                audio_url = f"https://quileutelanguage.com/data/audio/{folder}/{audio_file}"
-            except ValueError:
-                pass  # Leave audio_url as None
-
-        results.append({
-            "english": english_value,
-            "quileute": entry.get("quileute_unicode", entry.get("quileute", "")),
-            "phonetic": entry.get("pronunciation", ""),
-            "audio": audio_url
-        })
+            results.append({
+                "english": english_field,
+                "quileute": entry.get("quileute_unicode", entry.get("quileute", "")),
+                "phonetic": entry.get("pronunciation", ""),
+                "audio": audio_url
+            })
 
     return results
+
 
 @app.get("/")
 def root():
