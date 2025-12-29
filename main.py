@@ -35,14 +35,28 @@ def get_audio_url(mp3_filename: Optional[str]) -> Optional[str]:
         return None
 
 # Lookup in normalized dictionary
-def search_normalized(word: str) -> Optional[Dict]:
+def search_normalized(word: str):
     word = word.lower().strip()
+
     for entry in normalized_dict:
-        if entry["english"].lower().strip() == word:
-            entry_copy = entry.copy()
-            entry_copy["audio"] = get_audio_url(entry.get("audio_file"))
-            return entry_copy
+        # Safely pull candidate match fields
+        base = entry.get("base_english", "").lower().strip()
+        norm = entry.get("normalized_english", "").lower().strip()
+
+        # Match either base or normalized
+        if word == base or word == norm:
+            return {
+                "english": norm or base,
+                "quileute": entry.get("quileute_unicode", ""),
+                "phonetic": entry.get("quileute_phonetic", ""),
+                "audio": entry.get("audio", None),
+                "person": entry.get("person", ""),
+                "tense": entry.get("tense", ""),
+                "aspect": entry.get("aspect", ""),
+            }
+
     return None
+
 
 # Lookup in original dictionary
 def search_original(word: str) -> Optional[Dict]:
