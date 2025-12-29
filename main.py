@@ -1,12 +1,11 @@
 from fastapi import FastAPI, Query
 from fastapi.middleware.cors import CORSMiddleware
-from typing import List
 import json
 import os
 
 app = FastAPI()
 
-# Allow requests from local frontend and production site
+# Allow frontend access from localhost and production domain
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
@@ -19,111 +18,99 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Load original dictionary
+# Load both dictionaries
 with open("QuilDict_Unicode.json", encoding="utf-8") as f:
-    dictionary_data = json.load(f)
+    legacy_dict = json.load(f)
 
-# Load normalized dataset
 with open("normalized_quileute_dataset.json", encoding="utf-8") as f:
-    normalized_data = json.load(f)
+    normalized_dict = json.load(f)
 
-# Load lexical suffixes
-with open("quileute_lexical_suffixes_expanded.json", encoding="utf-8") as f:
-    suffix_data = json.load(f)
+# --- Helper: Search full phrase in normalized dataset
+def search_full_phrase(phrase):
+    for entry in normalized_dict:
+        if entry.get("english", "").lower().strip() == phrase.lower().strip():
+            return entry
+    return None
 
-
-def search_dictionary(word: str):
-    results = []
-    for entry in dictionary_data:
-        eng = str(entry.get("english", "")).strip().lower()
-        if eng == word:
-            audio_file = entry.get("audio_file", {}).get("mp3")
-            audio_url = None
-            if audio_file:
-                try:
-                    audio_number = int(audio_file.split(".")[0])
-                    folder = audio_number // 1000
-                    audio_url = f"https://quileutelanguage.com/data/audio/{folder}/{audio_file}"
-                except ValueError:
-                    pass
-            results.append({
-                "english": entry.get("english", ""),
-                "quileute": entry.get("quileute_unicode", entry.get("quileute", "")),
-                "phonetic": entry.get("pronunciation", ""),
-                "audio": audio_url
-            })
-    return results
-
-
-def search_normalized(word: str):
-    word = word.strip().lower()
-    for entry in normalized_data:
-        eng = str(entry.get("english", "")).strip().lower()
-        if eng == word:
+# --- Helper: Search single word in normalized dataset
+def search_normalized_word(word):
+    for entry in normalized_dict:
+        if entry.get("english", "").lower().strip() == word.lower().strip():
             return {
-                "english": entry.get("english", ""),
-                "quileute": entry.get("quileute", ""),
-                "phonetic": entry.get("phonetic", ""),
-                "audio": None
+                "english": entry["english"],
+                "quileute": entry["quileute_unicode"],
+                "phonetic": entry.get("phonetic", "[unknown]"),
+                "audio": entry.get("audio", None)
             }
     return None
 
+# --- Helper: Search single word in legacy dictionary
+def search_legacy(word):
+    for entry in legacy_dict:
+        if isinstance(entry, dict):
+            if entry.get("english", "").lower().strip() == word.lower().strip():
+                audio_file = entry.get("audio_file", {}).get("mp3")
+                if audio_file:
+                    try:
+                        audio_number = int(audio_file.split(".")[0])
+                        folder = audio_number // 1000
+                        audio_url = f"https://quileutelanguage.com/data/audio/{folder}/{audio_file}"
+                    except ValueError:
+                        audio_url = None
+                else:
+                    audio_url = None
 
-def search_suffixes(word: str):
-    word = word.strip().lower()
-    for entry in suffix_data:
-        eng = str(entry.get("english", "")).strip().lower()
-        if eng == word:
-            return {
-                "english": entry.get("english", ""),
-                "quileute": entry.get("quileute", ""),
-                "phonetic": entry.get("phonetic", ""),
-                "audio": None
-            }
+                return {
+                    "english": entry.get("english", ""),
+                    "quileute": entry.get("quileute_unicode", entry.get("quileute", "")),
+                    "phonetic": entry.get("pronunciation", "[unknown]"),
+                    "audio": audio_url
+                }
     return None
 
-
+# --- Translation endpoint
 @app.get("/translate")
 def translate(sentence: str = Query(..., min_length=1)):
-    words = sentence.strip().split()
-    all_matches = []
+    sentence = sentence.strip()
+    
+    # 1. Try full-phrase match in normalized dataset
+    full_match = search_full_phrase(sentence)
+    if full_match:
+        return {
+            "quileute_unicode": full_match["quileute_unicode"],
+            "phonetic": full_match.get("phonetic", "[unknown]"),
+            "morphology": full_match.get("morphology", [])
+        }
+
+    # 2. Tokenize and search word-by-word
+    words = sentence.split()
+    morphology = []
+    quileute_parts = []
+    phonetic_parts = []
 
     for word in words:
-        word_lc = word.lower().strip()
-        print(f"\n🔍 Looking up: {word_lc}")
+        # Try normalized word first
+        result = search_normalized_word(word)
 
-        matches = search_dictionary(word_lc)
-        if matches:
-            print("✅ Found in original dictionary")
-            all_matches.extend(matches)
-            continue
+        # If not found, try legacy
+        if not result:
+            result = search_legacy(word)
 
-        normalized_match = search_normalized(word_lc)
-        if normalized_match:
-            print("✅ Found in normalized dataset")
-            all_matches.append(normalized_match)
-            continue
+        # If still not found, return fallback
+        if not result:
+            result = {
+                "english": word,
+                "quileute": "[hypothetical]",
+                "phonetic": "[unknown]",
+                "audio": None
+            }
 
-        suffix_match = search_suffixes(word_lc)
-        if suffix_match:
-            print("✅ Found in lexical suffixes")
-            all_matches.append(suffix_match)
-            continue
-
-        print("❌ No match found")
-        all_matches.append({
-            "english": word,
-            "quileute": "[hypothetical]",
-            "phonetic": "[unknown]",
-            "audio": None
-        })
-
-    # Build aggregate response
-    unicode_combined = " ".join(entry["quileute"] for entry in all_matches)
-    phonetic_combined = " ".join(entry["phonetic"] for entry in all_matches)
+        morphology.append(result)
+        quileute_parts.append(result["quileute"])
+        phonetic_parts.append(result["phonetic"])
 
     return {
-        "quileute_unicode": unicode_combined,
-        "phonetic": phonetic_combined,
-        "morphology": all_matches
+        "quileute_unicode": " ".join(quileute_parts),
+        "phonetic": " ".join(phonetic_parts),
+        "morphology": morphology
     }
